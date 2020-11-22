@@ -11,10 +11,10 @@
 * Fix time and date formatting:
 * Since Date of attack is most important, Date and Time formatted for easier analysis
 
-##Phase 3
+## Phase 3
 * Clean up other columns for more consistent analysis where things can easily be standardized (ie: gender, fatality)
 
-##Phase 4
+## Phase 4
 * Update datatypes where possible
 
 ## Phase 5
