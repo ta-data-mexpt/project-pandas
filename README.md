@@ -10,13 +10,15 @@ Using Pandas to clean and manipulate the Data Frame 'GSAF5.csv'.
 
 ## Hypotheses
 
-The answersto this questions prior cleaning the data were contemplated as follow: there will be irrelevant data present, the presence of multiple NaN values is not criteria enough to drop columns from Data Frame, perhaps there will be vague descriptions included that are not relevant or useful for the understanding of shark attacks.
+There will be irrelevant data present, the presence of multiple NaN values is not criteria enough to drop columns from Data Frame, perhaps there will be vague descriptions included that are not relevant or useful for the understanding of shark attacks.
 
 ## Dataset
 
-Dataset = 'Attacks.csv' Original source of dataset: http://www.sharkattackfile.net/index.htm Link to messy dataset: https://www.kaggle.com/teajay/global-shark-attacks/version/1
+Dataset = 'GSAF5.csv' 
 
-Description of Dataset: This is a table of shark attack incidents compiled by the Global Shark Attack File.
+Original source of dataset: http://www.sharkattackfile.net/index.htm Link to messy dataset: https://www.kaggle.com/teajay/global-shark-attacks/version/1
+
+Description of Dataset: This is a table of shark attack incidents retrieved from the Global Shark Attack File.
 
 ## Database
 
