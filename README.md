@@ -1,42 +1,38 @@
-![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
+![IronHack Logo](shark-attack.jpg)
 
-# Project: Data Cleaning and Manipulation with Pandas
+# Project: "Shark attacks" Data Cleaning and Manipulation with Pandas.
 
 ## Overview
 
-The goal of this project is to combine everything you have learned about data wrangling, cleaning, and manipulation with Pandas so you can see how it all works together. For this project, you will start with this messy data set [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks/version/1). You will need to import it, use your data wrangling skills to clean it up, prepare it to be analyzed, and then export it as a clean CSV data file.
-
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. Show us what you've got!
-
----
+The goal of the project is wrangling, cleaning, and manipulation a Shark attack dataset with Pandas. If you will follow the project download the dataset from [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks/version/1). 
+at the end we will export it as a clean CSV data file.
 
 ## Technical Requirements
 
-The technical requirements for this project are as follows:
+* The dataset shark-attacks.
+* Pandas library.
+* A Jupyter Notebook ** shark-attack-data-cleaning.ipyng ** with code.
+* A clean shark_attack_clean_dataset.csv file.
 
-* The dataset that we provide you is a significantly messy data set. Apply the different cleaning and manipulation techniques you have learned.
-* Import the data using Pandas.
-* Examine the data for potential issues.
-* Use at least 8 of the cleaning and manipulation methods you have learned on the data.
-* Produce a Jupyter Notebook that shows the steps you took and the code you used to clean and transform your data set.
-* Export a clean CSV version of your data using Pandas.
+## Development procedure
 
-## Necessary Deliverables
-
-The following deliverables should be pushed to your Github repo for this chapter.
-
-* **A cleaned CSV data file** containing the results of your data wrangling work.
-* **A Jupyter Notebook (data-wrangling.ipynb)** containing all Python code and commands used in the importing, cleaning, manipulation, and exporting of your data set.
-* **A ``README.md`` file** containing a detailed explanation of the process followed in the importing, cleaning, manipulation, and exporting of your data as well as your results, obstacles encountered, and lessons learned.
-
-## Suggested Ways to Get Started
-
-* **Examine the data and try to understand what the fields mean** before diving into data cleaning and manipulation methods.
-* **Break the project down into different steps** - use the topics covered in the lessons to form a check list, add anything else you can think of that may be wrong with your data set, and then work through the check list.
-* **Use the tools in your tool kit** - your knowledge of Python, data structures, Pandas, and data wrangling.
-* **Work through the lessons in class** & ask questions when you need to! Think about adding relevant code to your project each night, instead of, you know... _procrastinating_.
-* **Commit early, commit often**, don’t be afraid of doing something incorrectly because you can always roll back to a previous version.
-* **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want.
+* 1- Import libraries we'll use ``Pandas``, ``Numpy``, ``digists`` and ``DateTime``.
+* 2- Import shark-attack dataset into a pandas dataframe.
+* 3- Analize data with pandas methods like **info(), head() and datacolums**.
+* 4- Develop functions to treat data as follow:
+    * 1 ``select_useful_columns_1()`` - Chosing relevants columns from main data.
+    * 2 ``rename_columns()`` - Change some titles names to best undertanding.
+    * 3 ``data_nulls()`` - null's treatment.
+    * 4 ``to_numeric()`` - return just numeric values in string.
+    * 5 ``get_numeric()`` - get numeric values from data.
+    * 6 ``fill_na()`` - fill NaN with an specific value.
+    * 7 ``cast_colum()`` - Change column type.
+    * 8 ``extract_date()`` - Extract date from a object.
+    * 9 ``get_date()`` - Extract date from field with date in.
+    * 10 ``select_useful_columns_2()`` - Select final columns.
+    * 11 ``re_order_columns()`` - to arrange columns appropriately.
+* 5-**Main Pipeline** transform data from a function to another.
+* 6-Export final dataframe to a **shark-attack.csv** file.
 
 ## Useful Resources
 
