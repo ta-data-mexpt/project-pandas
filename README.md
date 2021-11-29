@@ -2,46 +2,39 @@
 
 # Project: Data Cleaning and Manipulation with Pandas
 
-## Overview
+In this project I import the shark data base of the kaggle page https://www.kaggle.com/teajay/global-shark-attacks/version/1 , with the help of pandas I could see the database in a dataframe that I could manipulate and clean with the knowledge learned in class. In the end, the dimensions of the data frame were 5992 lines and 18 columns.Finally the data frame was saved to a csv file named clean_sharks.csv which is located in the output folder.
 
-The goal of this project is to combine everything you have learned about data wrangling, cleaning, and manipulation with Pandas so you can see how it all works together. For this project, you will start with this messy data set [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks/version/1). You will need to import it, use your data wrangling skills to clean it up, prepare it to be analyzed, and then export it as a clean CSV data file.
 
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. Show us what you've got!
+## Steps:
 
----
+* First I import the libraries, pandas and numpy but also were useful the libraries requests and re, then pandas readed the csv file in a dataframe.
 
-## Technical Requirements
+* Analyzed the dataframe content using .head(), .shape, .isnull().sum() to check the columns with the most null data.
 
-The technical requirements for this project are as follows:
+* I looked at the data in the columns with the most null data ( Unnamed: 22 y Unnamed: 23) converting the columns into a set since they show us the different elements of the column this allowed me to see that they were not relevant columns and I decided to delete them using .drop() with axis=1
 
-* The dataset that we provide you is a significantly messy data set. Apply the different cleaning and manipulation techniques you have learned.
-* Import the data using Pandas.
-* Examine the data for potential issues.
-* Use at least 8 of the cleaning and manipulation methods you have learned on the data.
-* Produce a Jupyter Notebook that shows the steps you took and the code you used to clean and transform your data set.
-* Export a clean CSV version of your data using Pandas.
+* Renamed the columns to make them easier to handle using .lower(), .strip(), .replace()
 
-## Necessary Deliverables
+* I compared the contents of the href and href_formula columns and noticed that almost all the lines had both columns equal,so using a for loop and a .request() I could see which links in the href column serve and which do not, then change the links that do not serve the href column for the links in the column href_formula finally I was able to delete the column href_formula because i did not lose information. 
 
-The following deliverables should be pushed to your Github repo for this chapter.
+* Then I analyzed the sex column and saw that there were some different values of m and f (using .value_counts()) so I researched the data in those rows and was able to determine the type of sex and assign it(using .loc()), the same for fatal_(y/n) column. Also cleaned the data in the columns using .strip(), .lower() and .replace().
 
-* **A cleaned CSV data file** containing the results of your data wrangling work.
-* **A Jupyter Notebook (data-wrangling.ipynb)** containing all Python code and commands used in the importing, cleaning, manipulation, and exporting of your data set.
-* **A ``README.md`` file** containing a detailed explanation of the process followed in the importing, cleaning, manipulation, and exporting of your data as well as your results, obstacles encountered, and lessons learned.
+* I tried to delete duplicate lines with .drop_duplicates(), but I couldn't find.
 
-## Suggested Ways to Get Started
+* I checked if any of the numeric columns had little variability to be able to delete it but I did not find any with little variability.
 
-* **Examine the data and try to understand what the fields mean** before diving into data cleaning and manipulation methods.
-* **Break the project down into different steps** - use the topics covered in the lessons to form a check list, add anything else you can think of that may be wrong with your data set, and then work through the check list.
-* **Use the tools in your tool kit** - your knowledge of Python, data structures, Pandas, and data wrangling.
-* **Work through the lessons in class** & ask questions when you need to! Think about adding relevant code to your project each night, instead of, you know... _procrastinating_.
-* **Commit early, commit often**, don’t be afraid of doing something incorrectly because you can always roll back to a previous version.
-* **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want.
+* I analyzed the columns of case_number, case_numer.1 and case_number.2 and I saw that their content was repeated in almost all the lines, so I only analyzed and modified certain values of those lines and  I could delete the columns case_number.1 and case_number.2 with .drop().
 
-## Useful Resources
+* Then I went on to analyze the date column to see if I could delete the years column later, I modified various data to have the date format dd-month-yyyy to include the full year and most of the data have that format.But there are also other date formats like month-yyyy or yyyy or Before yyyy or Not date or yyyys or yyyy-yyyy these were the most common. Then I tried to clean up as much as I could the missing data, so that they adopted one of the formats mentioned, until there were very few, with different and more extensive formats.
 
-* [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
-* [Pandas Tutorials](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
-* [StackOverflow Pandas Questions](https://stackoverflow.com/questions/tagged/pandas)
-* [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets)
-* [Kaggle Data Sets](https://www.kaggle.com/datasets)
+* I decided not to delete the years column because it could be used to analyze the data later. But I decided to delete the original_order column because it didn't provide any information.
+
+* I cleaned the data from the country, area, location, activity, type, time and species columns after analyzing their content taking a little more time with the species and time columns.
+
+* I filled in the null data (in the columns that contained null data) with the word unknown.
+
+* I renamed the name and species columns by victims and shark_information because the name column not only had names, also type of person/s that had attacked the shark, and the species column had a very detailed information of the shark that attacked.
+
+* I checked the type of item that saved each column with .dytipes and changed the date column to string.
+
+* Finally I saved the dataframe in a csv file in the output folder with .to_csv().
