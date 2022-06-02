@@ -1,5 +1,3 @@
-![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
-
 # Project: Data Cleaning and Manipulation with Pandas
 
 ## Overview
@@ -10,38 +8,14 @@ The goal of this project is to combine everything you have learned about data wr
 
 ---
 
-## Technical Requirements
+## Realización de este proyecto
 
-The technical requirements for this project are as follows:
+Para la realización de este proyecto se consideraron diferentes pasos, no se tomó un orden específico de acción, cosa que se podria mejorar en futuros proyectos. El archivo CSV de shark attacks se encontraba terriblemente sucio, constando de mas de 20,000 renglones de los cuales una buena cantidad estaban totalmente vacios. Lo primero que se realizó fue eliminar estos renglones hasta quedarnos con al rededor de 6,000 renglones con imformación relativamente completa. Despues de esto se eliminaron columnas que tuvieran ionformación repetida o que bien tuvieran una gran cantidad de datos faltantes incluso después de eliminar renglones vacios. Se llenaron valores nulos que se pudieran obtener de alguna forma o bien haciendo inferencias sobre los datos mismos y en caso de que no se encontrara ninguna forma de llenarlos, con la leyenda 'No Data'. Se cambió el tipo de datos de la fecha a tipo fecha en los elementos que se pudiera. Finalmente se guardó un nuevo archivo limpio como CSV.
 
-* The dataset that we provide you is a significantly messy data set. Apply the different cleaning and manipulation techniques you have learned.
-* Import the data using Pandas.
-* Examine the data for potential issues.
-* Use at least 8 of the cleaning and manipulation methods you have learned on the data.
-* Produce a Jupyter Notebook that shows the steps you took and the code you used to clean and transform your data set.
-* Export a clean CSV version of your data using Pandas.
+## Dificultados
 
-## Necessary Deliverables
+Al no tener un objetivo claro, las manipulaciones de datos que se podian hacer quedan enteramente a nuestra decisión por lo que la insertidumbre de si la forma en que estamos limpiando los datos o no es correcta siempre se encuentra además de no tener total confienza en eliminar columnas ya que al no tener objetivo, no podiamos evaluar la importancia de los datos que encontrabamos eliminando. Me parece que esta fué la mayor dificultad de este proyecto ya que hacer la manipulación de datos una vez decidido que se haría es bastante directo.
 
-The following deliverables should be pushed to your Github repo for this chapter.
+## Resultados
 
-* **A cleaned CSV data file** containing the results of your data wrangling work.
-* **A Jupyter Notebook (data-wrangling.ipynb)** containing all Python code and commands used in the importing, cleaning, manipulation, and exporting of your data set.
-* **A ``README.md`` file** containing a detailed explanation of the process followed in the importing, cleaning, manipulation, and exporting of your data as well as your results, obstacles encountered, and lessons learned.
-
-## Suggested Ways to Get Started
-
-* **Examine the data and try to understand what the fields mean** before diving into data cleaning and manipulation methods.
-* **Break the project down into different steps** - use the topics covered in the lessons to form a check list, add anything else you can think of that may be wrong with your data set, and then work through the check list.
-* **Use the tools in your tool kit** - your knowledge of Python, data structures, Pandas, and data wrangling.
-* **Work through the lessons in class** & ask questions when you need to! Think about adding relevant code to your project each night, instead of, you know... _procrastinating_.
-* **Commit early, commit often**, don’t be afraid of doing something incorrectly because you can always roll back to a previous version.
-* **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want.
-
-## Useful Resources
-
-* [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
-* [Pandas Tutorials](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
-* [StackOverflow Pandas Questions](https://stackoverflow.com/questions/tagged/pandas)
-* [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets)
-* [Kaggle Data Sets](https://www.kaggle.com/datasets)
+El resultado es un archivo CSV de menor tamaño y con datos más estandarizados.
