@@ -45,3 +45,14 @@ The following deliverables should be pushed to your Github repo for this chapter
 * [StackOverflow Pandas Questions](https://stackoverflow.com/questions/tagged/pandas)
 * [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets)
 * [Kaggle Data Sets](https://www.kaggle.com/datasets)
+
+CHALLENGES
+
+- Eliminar columnas repetidas
+- ELiminar NaN
+- Cambiar Nombre de Columnas
+- Ordenar ASC por fecha
+- Resetear índice de df
+- Concatenar tablas (horizontal y verticalmente)
+- Obtener índices de columnas
+- Obtener nombres de columnas
