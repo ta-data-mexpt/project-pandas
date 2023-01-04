@@ -1,0 +1,646 @@
+Case Number,Species,Type of Injury,Fatal:Yes or No,Unprovoked attack,Sex,Age,Activity,Country,Area,Year,Date,Time,Type,Investigation
+2000.00.00,Hammerhead Shark,no injury to occupant; shark bit propeller,N,Y,Male,NA,Fishing For Tarpon,USA,Florida,2000,2000,NA,Boat,"B. Stout, News-Press, 7/2/2005"
+2000.02.14,Blacktip Shark,fingers bitten provoked incident,N,N,Male,NA,Feeding Prawns To Captive Sharks,England,Worcestershire,2000,14-Feb-00,NA,Provoked,"The Sun (London), 2/17/2000"
+2000.02.19,White Shark,foot bitten,N,Y,Male,NA,Body Surfing,South Africa,Western Cape Province,2000,19-Feb-00,14h00,Unprovoked,"C. Creswell, GSAF"
+2000.03.14,Tiger Shark,no injury,N,Y,Male,NA,Surfing,Australia,New South Wales,2000,14-Mar-00,19h30,Unprovoked,"Sydney Morning Herald, 3/16/2000 "
+2000.03.15,Tiger Shark,fatal,Y,Y,Male,35,Spearfishing,New Caledonia,North Province,2000,15-Mar-00,Morning,Unprovoked,"Les Nouvelles Caledoniennes, 3/16/2000"
+2000.05.13,Tiger Shark,sharks prevented recovery of remains,Y,Y,NA,NA,"Air Disaster - Piper Aircraft Crashed Into The Sea, Killing All On Board",New Caledonia,South Province,2000,13-May-00,NA,Sea Disaster,"W. Leander; Les Nouvelles Caledoniennes, 5/15/2000"
+2000.06.00,Zambesi Shark,"fatal, legs severed  ",Y,Y,Male,NA,Swimming,Tanzania,Na,2000,Early Jun-2000,NA,Unprovoked,T. Thierry
+2000.06.09.a,Bull Shark,right forearm severed surgically amputated above elbow,N,Y,Male,44,Swimming ,USA,Alabama,2000,09-Jun-00,06h45,Unprovoked,"Orlando Sentinel, 6/10/2000, p.A20 & 6/11/2000, p.A22; T. Allen, pp.74-75Jun 10, 2000. pg. A.20"
+2000.06.09.b,Bull Shark,puncture wounds on right hip and arm,N,Y,Male,55,Swimming,USA,Alabama,2000,09-Jun-00,06h45,Unprovoked,"Orlando Sentinel, 6/10/2000, p.A20 & 6/11/2000, p.A22; T. Allen, pp.74-75Jun 10, 2000. pg. A.20"
+2000.06.10,Blacktip Shark,foot lacerated,N,Y,Male,17,Surfing,USA,Texas,2000,10-Jun-00,16h00,Unprovoked,GSAF
+2000.06.13,Bull Shark,"no injury to occupants, boat's rear platform bitten",N,Y,NA,NA,Sailing,USA,Florida,2000,13-Jun-00,14h30,Boat,"Mobile Register 6/14/2000; Charlotte Observer, 6/15/2000, p.8A"
+2000.07.00,Zambesi Shark,fatal,Y,Y,NA,NA,Swimming,Tanzania,Na,2000,Jul-00,NA,Unprovoked,T. Thierry
+2000.07.02.a,Blacktip Shark,left thigh lacerated,N,Y,Female,19,Standing,USA,Florida,2000,02-Jul-00,14h45,Unprovoked,"S. Petersohn; M.Guisti, Daytona Beach News Journal, 7/3/2000, p.6C; Orlando Sentinel, 7/3/2000,p.C3"
+2000.07.04.a,Nurse Shark,lower right calf lacerated,N,Y,Female,55,"Spearfishing, Holding Mesh Bag With Speared Fish",USA,Florida,2000,04-Jul-00,12h00,Unprovoked,"V. Mannix, Bradenton Herald, 8/3/2000, p.1 "
+2000.07.06,Tiger Shark,calf lacerated,N,Y,Female,12,Playing,USA,North Carolina,2000,06-Jul-00,16h30,Unprovoked,"Charlotte Observer, 7/20/2000, p.1A"
+2000.07.07,Lemon Shark,ankle and foot lacerated,N,Y,Male,5,Jumping,USA,Texas,2000,07-Jul-00,NA,Unprovoked,"K. Hastings, Dallas Morning News"
+2000.07.12,Grey Shark,left arm bitten,N,Y,Male,69,Scuba Diving, Tonga,Minerva Reef,2000,12-Jul-00,NA,Unprovoked,www.spearfishingsa.co.za
+2000.07.16.b,Grey Shark,minor lacerations on foot,N,Y,Male,14,Surfing,USA,North Carolina,2000,16-Jul-00,NA,Unprovoked,"C. Creswell, GSAF; Charlotte Observer, 7/20/2000, p.1A"
+2000.07.22,Nurse Shark,leg pinched,N,Y,Female,45,Snorkeling,USA,Florida,2000,22-Jul-00,NA,Unprovoked,"E. Ritter, GSAF"
+2000.08.00,Zambesi Shark,fatal,Y,Y,NA,NA,Swimming,Tanzania,Na,2000,Aug-00,NA,Unprovoked,T. Thierry
+2000.08.12,Blacktip Shark,severely bitten on lower leg ,N,Y,Female,44,Standing,USA,Florida,2000,12-Aug-00,16h45,Unprovoked,M. White
+2000.08.15,Tiger Shark,left calf lacerated,N,Y,Male,53,"Windsurfing, But Sitting On His Board",USA,Hawaii,2000,15-Aug-00,11h50,Unprovoked,Maui.net
+2000.08.30,Bull Shark,fatal,Y,Y,Male,69,Jumped Into The Water,USA,Florida,2000,30-Aug-00,16h00,Unprovoked,"E. Ritter, GSAF; Charlotte Observer, 9/1/2000, p.4A; Orlando Sentinel, 8/31/2000, p.A19"
+2000.09.00.b,Zambesi Shark,fatal,Y,Y,NA,NA,Swimming,Tanzania,Na,2000,Early Sep-2000,NA,Unprovoked,T. Thierry
+2000.09.08.a,Tiger Shark,left arm bitten,N,Y,Male,27,Surfing,Reunion,Saint-Pierre,2000,08-Sep-00,18h05,Unprovoked,"Clicanoo, le journal  de l'Ile de la Réunion; Northern Territory News, 9/12/2000, p.6"
+2000.09.08.c,Zambesi Shark,fatal,Y,Y,Male,28,Swimming,Tanzania,Na,2000,08-Sep-00,NA,Unprovoked,E. Matechi; A. Mbogora 
+2000.09.10.a,White Shark,swim fin bitten,N,Y,Male,48,Free Diving,South Africa,Western Cape Province,2000,10-Sep-00,11h00,Unprovoked,"E. Ritter, GSAF"
+2000.09.16.b,White Shark, fatal,Y,Y,Male,31,Surfing,Okinawa,Miyako Island,2000,16-Sep-00,17h00,Unprovoked,M. Shimbun; japanupdate.com
+2000.09.18,Blue Shark,foot lacerated from toe to heel when he tripped on shark during fishing competition provoked incident,N,N,Male,12,Fell Onto Dead Shark,Australia,New South Wales,2000,19-Sep-00,NA,Provoked,Illwara Mercury. 9/19/2000
+2000.09.24,White Shark,fatal,Y,Y,Male,25,Surfing,Australia,South Australia,2000,24-Sep-00,07h30,Unprovoked,"T. Peake, GSAF"
+2000.09.25,White Shark,fatal,Y,Y,Male,17,Surfing,Australia,South Australia,2000,25-Sep-00,13h00,Unprovoked,"T. Peake, GSAF"
+2000.09.29,White Shark,no injury,N,Y,Male,NA,Sitting On Surfboard,USA,California,2000,29-Sep-00,09h00,Unprovoked,"P. Euwer, Ocean.com; D.W. Cole & M. DesJardins, Santa Cruz Sentinel"
+2000.10.06.b,Blacktip Shark,fingers lacerated,N,Y,Male,23,Surfing,USA,Florida,2000,06-Oct-00,14h30,Unprovoked,"SharkSurvivor.com; M.I.Johnson, Daytona Beach News Journal, 10/7/2000, p.1A; Daytona News Journal, 10/8/2000, p.4B"
+2000.10.18,Tiger Shark,right side of back / torso lacerated,N,Y,Female,56,Swimming / Snorkeling,USA,Hawaii,2000,18-Oct-00,11h20,Unprovoked,GSAF
+2000.10.29,White Shark,"no injury to occupant, shark holed and sank boat",N,Y,NA,31,Fishing ,Australia,Queensland,2000,29-Oct-00,22h00,Boat,"T. Peake, GSAF"
+2000.11.04,White Shark,both thighs bitten,N,Y,Male,27,Surfing,USA,California,2000,04-Nov-00,16h30,Unprovoked,"J. Ramsay, California Fish & Game; R. Collier"
+2000.11.06.a,White Shark,"fatal, torso bitten, leg severed ",Y,Y,Male,49,Swimming,Australia,Western Australia,2000,06-Nov-00,06h30,Unprovoked,"B. May, AAP; G. Thiel"
+2000.11.06.b,White Shark,leg and feet lacerated,N,Y,Male,52,Swimming,Australia,Western Australia,2000,06-Nov-00,06h30,Unprovoked,"B. May, AAP; G. Thiel"
+2000.11.21,Tiger Shark,"no injury, wetsuit and swimfin torn",N,Y,Male,28,Diving (Shell Maintenance),Australia,Queensland,2000,21-Nov-00,NA,Unprovoked,"Courier-Mail, 11/24/2000, p.3"
+2000.12.03,Bronze Whaler Shark,left elbow and forearm bitten,N,Y,Male,38,Spearfishing,Australia,Queensland,2000,03-Dec-00,09h30,Unprovoked,"N. Leys; Daily Telegraph, 12/4/2000.p.3"
+2000.12.11,White Shark,no injury to occupants,N,Y,NA,NA,Fishing For Whiting,Australia,South Australia,2000,11-Dec-00,NA,Boat,"The Dominion, 12/13/2000; Northern Territory News, 12/13/2000, p.9"
+2001.01.06,White Shark,"no injury, kayak bitten",N,Y,Male,NA,Kayaking,New Zealand,North Island,2001,06-Jan-01,NA,Boat,C. Duffy
+2001.01.21 ,White Shark,no injury to occupants,N,Y,NA,NA,Fishing,Australia,South Australia,2001,21-Jan-01,NA,Boat,"Northern Territory News, 1/22/2001, p.8"
+2001.02.04,Bronze Whaler Shark,leg bitten,N,Y,Male,40,Surfing,Australia,New South Wales,2001,04-Feb-01,16h15,Unprovoked,"Daily Dispatch, 2/6/2001"
+2001.02.26,White Shark,no injury to occupants,N,Y,NA,NA,Fishing For Whiting,Australia,Western Australia,2001,26-Feb-01,NA,Boat,Illwara Mercury
+2001.03.00,Tiger Shark,"human remains recovered in shark caught off anguilla, probable scavenging on drowned body",Y,Y,NA,NA,Sinking Of The 40' Esperanza Off St. Maartin With 36 Refugees On Board,Caribbean Sea,Na,2001,Mar-01,NA,Sea Disaster,"C. Johansson, GSAF"
+2001.04.02.a,Bronze Whaler Shark,calf bitten,N,Y,Male,40,Surfing,Australia,New South Wales,2001,02-Apr-01,10h00,Unprovoked,"T. Peake, GSAF"
+2001.04.08.b,White Shark,"thigh, hip and buttock bitten",N,Y,Male,46,Surfing,South Africa,Eastern Cape Province,2001,08-Apr-01,09h30,Unprovoked,"M. Smale, P.E. Museum      "
+2001.04.10,Blacktip Shark,foot lacerated,N,Y,NA,16,Surfing,USA,Florida,2001,10-Apr-01,NA,Unprovoked,"Orlando Sentinel, 4/14/2001, p.A1"
+2001.04.11.a,White Shark,minor punctures and lacerations on left hand ,N,Y,Male,NA,Surfing,USA,Hawaii,2001,11-Apr-01,07h00,Unprovoked,Honolulu Star Bulletin
+2001.04.11.d,Blacktip Shark,minor cuts on right heel and foot,N,Y,Male,19,Surfing,USA,Florida,2001,11-Apr-01,8:04 PM,Unprovoked,"S. Petersohn, GSAF; scubaradio.com; Orlando Sentinel, 4/14/2001, p.A1"
+2001.04.12.a,Blacktip Shark,foot lacerated,N,Y,Male,22,Surfing,USA,Florida,2001,12-Apr-01,11h53,Unprovoked,"S. Petersohn, GSAF; Orlando Sentinel, 4/14/2001, p.A1"
+2001.04.12.b,Blacktip Shark,foot and ankle lacerated,N,Y,Male,12,Body Boarding,USA,Florida,2001,12-Apr-01,12h34,Unprovoked,"S. Petersohn, GSAF; Orlando Sentinel, 4/14/2001, p.A1"
+2001.04.12.c,Blacktip Shark,small cuts on big and pinky toes of left foot,N,Y,Male,21,Surfing,USA,Florida,2001,12-Apr-01,16h05,Unprovoked,"S. Petersohn, GSAF; Orlando Sentinel, 4/14/2001, p.A1"
+2001.04.13.a,Blacktip Shark,right foot and ankle lacerated,N,Y,Male,12,Surfing,USA,Florida,2001,13-Apr-01,10h55,Unprovoked,"S. Petersohn, GSAF; Orlando Sentinel, 4/14/2001, p.A1"
+2001.05.08,White Shark,leg bitten,N,Y,Male,26,Surfing,South Africa,Eastern Cape Province,2001,08-May-01,NA,Unprovoked,"East London Daily Dispatch, 5/9/2001"
+2001.06.10,White Shark,"no injury. shark made threat display, then diver shot the shark provoked incident",N,N,Male,52,Spearfishing,USA,California,2001,10-Jun-01,09h00,Provoked,"R. Collier, GSAF"
+2001.07.06.a,Bull Shark,"arm severed, surgically reattached",N,Y,Male,8,Swimming,USA,Florida,2001,06-Jul-01,Dusk,Unprovoked,"E. Ritter, GSAF"
+2001.07.24,Nurse Shark,2 bites behind knee,N,Y,Female,NA,Na,USA,Florida,2001,24-Jul-01,NA,Unprovoked,"Key West Citizen, 7/26/2001"
+2001.08.16,Bull Shark,calf bitten,N,Y,Male,43,Spearfishing,Bahamas,Grand Bahama Island,2001,16-Aug-01,16h00,Unprovoked,"E. Ritter, GSAF; 8/17/2001, p.A9"
+2001.08.18.a,Blacktip Shark,left ankle bitten,N,Y,Male,19,Surfing,USA,Florida,2001,18-Aug-01,10h00,Unprovoked,"S. Petersohn, GSAF; Orlando Sentinel, 8/20/2001, p.B1; Daytona Beach News Journal, 8/20/2001, p.1A"
+2001.08.18.b,Blacktip Shark,back of left hand gashed,N,Y,Male,19,Surfing,USA,Florida,2001,18-Aug-01,12h05,Unprovoked,"S. Petersohn, GSAF; Orlando Sentinel, 8/20/2001, p.B1; Daytona Beach News Journal, 8/20/2001, p.1A"
+2001.08.18.c,Blacktip Shark,cuts on right foot,N,Y,Male,20,Surfing,USA,Florida,2001,18-Aug-01,12h30,Unprovoked,"S. Petersohn, GSAF; Orlando Sentinel, 8/20/2001, p.B1; Daytona Beach News Journal, 8/20/2001, p.1A"
+2001.08.31,Bull Shark,torso lacerated,N,Y,Male,44,Spearfishing,Bahamas,Abaco Islands,2001,31-Aug-01,13h30,Unprovoked,G. Atkinson
+2001.09.01,Bull Shark,"fatal, thigh bitten ",Y,Y,Male,10,Swimming ,USA,Virginia,2001,01-Sep-01,18h00,Unprovoked,"M. Levine, GSAF            "
+2001.09.03.a,White Shark,left buttock and foot  severed,N,Y,Female,23,Swimming,USA,North Carolina,2001,03-Sep-01,18h00,Unprovoked,"M. Levine, GSAF            "
+2001.09.03.b,White Shark,fatal,Y,Y,Male,28,Swimming ,USA,North Carolina,2001,03-Sep-01,18h00,Unprovoked,"M. Levine, GSAF            "
+2001.09.13,Tiger Shark,head bitten by captive shark provoked incident,N,N,Male,NA,Diving,United Kingdom,Cheshire,2001,13-Sep-01,NA,Provoked,"Daily Post, 9/14/2001"
+2001.09.30.a,White Shark,no injury from shark,N,Y,Male,31,Na,Australia,Queensland,2001,30-Sep-01,P.M.,Boat,"T. Peake, GSAF   "
+2001.09.30.b,Tiger Shark,hand injured,N,Y,Male,26,Body Surfing,Mexico,Guerrero,2001,30-Sep-01,Late morning,Unprovoked,T. Carlson
+2001.10.02,Bronze Whaler Shark,lacerations to right forearm and shoulder injured,N,Y,Female,20,Snorkeling,Australia,Queensland,2001,02-Oct-01,13h00,Unprovoked,K. Jones
+2001.11.23,Bronze Whaler Shark,"no injury, shark hit board",N,Y,Male,49,Surfing,Australia,New South Wales,2001,23-Nov-01,NA,Unprovoked,"T. Peake, GSAF"
+2002.01.01.a,Tiger Shark,lacerations to buttocks and thigh,N,Y,Male,35,Snorkeling,USA,Hawaii,2002,01-Jan-02,13h00,Unprovoked,"G. Kubota, Star Bulletin"
+2002.01.04,Zambesi Shark,leg bitten and surgically amputated,N,Y,Male,16,Fishing,South Africa,Kwazulu-Natal,2002,04-Jan-02,02h00,Unprovoked,"G. Gifford, GSAF"
+2002.01.30.b,Tiger Shark,bruises and minor cuts,N,Y,Male,20,Surfing,Australia,New South Wales,2002,30-Jan-02,20h45 (Sunset),Unprovoked,"T. Peake, GSAF"
+2002.03.15.b,Nurse Shark,arm bitten,N,Y,Male,39,Snorkeling,USA,Florida,2002,15-Mar-02,Morning,Unprovoked,ezboard.com
+2002.03.25.b,Tiger Shark,left leg severed below knee,N,Y,Male,17,Body-Boarding,USA,Hawaii,2002,25-Mar-02,12h00,Unprovoked,"G. Kubota, Honolulu Star Bulletin"
+2002.04.09,Bull Shark,calf bitten,N,Y,Male,43,Standing,Bahamas,Abaco Islands,2002,09-Apr-02,10h45,Unprovoked,"E. Ritter, GSAF"
+2002.04.30,White Shark,"fatal, torso and leg bitten  ",Y,Y,Male,23,Scallop Diving (Using Surface-Supplied Air And A Pod) ,Australia,South Australia,2002,30-Apr-02,12h40,Unprovoked,"T. Peake, GSAF"
+2002.05.21.R,Bull Shark,toothmarks in board and his swim trunks,N,Y,Male,NA,Surfing,Costa Rica,Guanacaste,2002,Reported 21-May-2002,NA,Unprovoked,Surfline.com
+2002.05.22.b,Blacktip Shark,leg bitten by hooked shark provoked incident,N,N,Male,55,"Fishing, Removing The Shark From His Line",USA,Florida,2002,22-May-02,17h15,Provoked,"News-Press, 5/23/2002"
+2002.05.31.b,White Shark,lacerated leg and back,N,Y,Male,24,Surfing,USA,California,2002,31-May-02,14h15,Unprovoked,San Francisco Gate
+2002.06.11.b,Tiger Shark,"no injury, shark bit side of surfboard",N,Y,NA,NA,Sitting On Surfboard,USA,Hawaii,2002,11-Jun-02,13h345,Unprovoked,Hawaii Department of Land and Natural Resources
+2002.07.04,Bull Shark,"calf, foot and hand bitten",N,Y,Female,9,Standing,USA,North Carolina,2002,04-Jul-02,17h15,Unprovoked,"Miami Herald, 7/7/2002 "
+2002.07.09.a,Tiger Shark,right hand severed,N,Y,Male,22,Surfing,Brazil,Pernambuco,2002,10-Jul-02,15h00,Unprovoked,"P.M. Lopes, GSAF"
+2002.07.20,Bull Shark,calf bitten,N,Y,Female,15,Swimming,USA,North Carolina,2002,20-Jul-02,17h00,Unprovoked,"C. Creswell, GSAF"
+2002.07.26,Blacktip Shark,heel bitten,N,Y,Male,13,Surfing,USA,South Carolina,2002,26-Jul-02,19h00,Unprovoked,"C. Creswell, GSAF; The  State  (Columbia, SC) 7/28/2002 ; Sun News (Myrtle Beach), 7/28/2002"
+2002.08.06.R,Tiger Shark,hand bitten by captive shark provoked incident,N,N,Male,30,Diving,United Kingdom,Cheshire,2002,Reported 06-Aug-2002,NA,Provoked,"Evening Standard (London, England)"
+2002.08.11,Nurse Shark,lacerations on heel and dorsum of right foot,N,Y,Male,15,Surfing,USA,Florida,2002,11-Aug-02,15h30,Unprovoked,"Stuart News, 8/12/2002"
+2002.08.28,Tiger Shark,left foot lacerated ,N,Y,Male,16,Surfing,USA,Hawaii,2002,28-Aug-02,15h45,Unprovoked,"G. Kubota, Honolulu Star Bulletin"
+2002.09.05,Hammerhead Shark,2 small puncture wounds on left foot provoked incident,N,N,Male,36,"Wading, When He Stepped On The Shark",USA,Florida,2002,05-Sep-02,17h45,Provoked,"S. Petersohn, GSAF"
+2002.09.13,White Shark,no injury,N,Y,Male,47,Surf Skiing,South Africa,Western Cape Province,2002,13-Sep-02,16h00,Unprovoked,Multiple internet sources
+2002.09.16.b,Tiger Shark,"left thigh bitten, leg surgically amputated",N,Y,Male,19,Swimming,Brazil,Pernambuco,2002,16-Sep-02,15h00,Unprovoked,"P.M. Lopes, GSAF"
+2002.09.27.a,Tiger Shark,thigh lacerated  provoked incident,N,N,Male, ,Swimming,Tonga,Vava'U,2002,27-Sep-02,15h00,Provoked,C. Butterfield
+2002.09.27.b,Blacktip Shark,left thumb lacerated provoked incident,N,N,Male,  ,Fishing,USA,Florida,2002,27-Sep-02,Afternoon,Provoked,"J. Eager, scubaradio.com"
+2002.09.27.c,Blacktip Shark,"no injury, surfboard bitten ",N,Y,Male,55,Fishing From Surfboard,USA,Hawaii,2002,27-Sep-02,15h35,Unprovoked,"C. Lum & J. Widner, Honolulu Advertiser"
+2002.10.05.b,Blacktip Shark,abrasions on right hand and deep laceration on middle finger,N,Y,Male,14,Surfing,USA,Florida,2002,05-Oct-02,12h00,Unprovoked,"D. Harrity; S. Petersohn, GSAF; L. Lelis, Orlando Sentinel"
+2002.10.14,Tiger Shark,"fatal, body not recovered",Y,Y,Male,36,Swimming,Brazil,Pernambuco,2002,14-Oct-02,16h00,Unprovoked,"P.M. Lopes, GSAF"
+2002.11.14,Caribbean Reef Shark,"right upper am, shoulder and back severely  bitten",N,Y,Female,41,Snorkeling,Turks And Caicos,Caicos Bank,2002,14-Nov-02,08h40,Unprovoked,"M. Glenn, Local 10 News; Miami Herald, 11/28/2002"
+2002.11.17,Grey Shark,right shoulder forarm and wrist bitten,N,Y,Female,34,Swimming,USA,Hawaii,2002,17-Nov-02,10h45,Unprovoked,San Francisco Gate
+2002.11.28.a,White Shark,both legs severely lacerated,N,Y,Male,48,Body Boarding,USA,California,2002,28-Nov-02,09h45,Unprovoked,"R. Collier, GSAF; Press Report: Santa Rosa Press Democrat "
+2002.11.28.b,Blacktip Shark,minor injury to right calf,N,Y,Male,NA,Scuba Diving,Micronesia,Caroline Islands,2002,28-Nov-02,Afternoon,Unprovoked,J. Connick
+2002.12.16,Bull Shark,fatal,Y,Y,Male,23,Swimming,Australia,Queensland,2002,16-Dec-02,02h30,Unprovoked,"T. Peake, GSAF; Northern Territory News, 12/20/2002, p.9"
+2002.12.24,White Shark,forearms lacerated,N,Y,Male,25,Snorkeling,South Africa,Western Cape Province,2002,24-Dec-02,Just after 12h00,Unprovoked,IOL.co.za
+2002.12.29,Hammerhead Shark,left arm lacerated,N,Y,Female,18,Snorkeling,Australia,Queensland,2002,29-Dec-02,NA,Unprovoked,"T. Peake, GSAF; Mercury (Hobart), 12/30/2002, p.10"
+2003.01.02,Bronze Whaler Shark,"no injury, but her surfboard was bitten",N,Y,Female,NA,Surfing,Australia,Western Australia,2003,02-Jan-03,13h00,Unprovoked,"T. Peake, GSAF"
+2003.01.03,Bull Shark,lower right leg lacerated,N,Y,Male,NA,Surfing,Costa Rica,North Pacific Coast,2003,03-Jan-03,NA,Unprovoked,A.M. Costa Rica
+2003.02.08,Bull Shark,fatal,Y,Y,Male,84,Swimming,Australia,Queensland,2003,08-Feb-03,Morning,Unprovoked,"T. Peake, GSAF; Sunday Territorian, 2/9/2003, p.9"
+2003.02.11,Nurse Shark,"puncture wounds on heel, legs and buttocks",N,Y,Male,24,Swimming,Australia,New South Wales,2003,11-Feb-03,--,Unprovoked,"T. Peake, GSAF"
+2003.02.27,White Shark,arm lacerated (shark made 3 strikes),N,Y,Male,44,Scuba Diving,New Zealand,Southland,2003,27-Feb-03,11h45,Unprovoked,"R.D. Weeks & Mark Marks, GSAF; New Zealand Herald"
+2003.04.23.b,Bull Shark,"hand and foot lacerated,  lower left leg severely bitten, necessitating surgical amputation",N,Y,Male,17,Surfing,Brazil,Pernambuco,2003,23-Apr-03,17h00,Unprovoked,"P. M. Lopes, GSAF; N. Souza da Silva; JC, 4/24/2003"
+2003.05.00,White Shark,arm severed,N,Y,NA,NA,Na,Philippines,Baatan,2003,May-03,NA,Unprovoked,"D. Cervantes, Star"
+2003.05.10,Grey Shark,right calf and heel bitten,N,Y,Male,20,Swimming,USA,Hawaii,2003,10-May-03,11h45,Unprovoked,WestHawaiiToday.com
+2003.07.00.a,Grey Shark,chest and buttocks  bitten,N,Y,Male,NA,Snorkeling,New Zealand,Cook Islands,2003,Jul-03,NA,Unprovoked,R. & J. Zorro; Noonsite.com
+2003.07.00.c,Hammerhead Shark,laceration to toe,N,Y,Male,NA,Spearfishing,USA,Florida,2003,Jul-03,NA,Unprovoked,M. Marks
+2003.07.04,Bull Shark,left calf bitten,N,Y,Male,39,Spearfishing,Bahamas,Abaco Islands,2003,04-Jul-03,14h45,Unprovoked,"Associated Press, 7/12/03; Palm Beach Post, 7/7/2003 "
+2003.08.08,White Shark,"no injury, wetsuit torn and board bitten",N,Y,Male,16,Sitting On Surfboard,South Africa,Eastern Cape Province,2003,08-Aug-03,08h00,Unprovoked,"E. Ritter, GSAF  http://sport.iafrica.com/news/261271.htm       "
+2003.08.19,White Shark,"fatal          hip and upper thigh bitten, femoral artery severed ",Y,Y,Female,50,"Swimming, Wearing Black Wetsuit And Swim Fins",USA,California,2003,19-Aug-03,08h15,Unprovoked,"R. Collier, GSAF                "
+2003.08.29,Bull Shark,provoked incident hooked shark pulled onboard bit his arm  ,N,N,Male,NA,Fishing,USA,Texas,2003,29-Aug-03,12h20,Provoked,http://www.dfw.com/mld/startelegram/news/state/6656592.htm?1c
+2003.09.12,White Shark,"fatal, left thigh, buttocks, back of spine, abdomen and chest bitten  ",Y,Y,Male,19,Body Boarding,South Africa,Western Cape Province,2003,12-Sep-03,14h30,Unprovoked,"E. Ritter, GSAF;      http://www.wavescape.co.za/top_bar/locals_only9.htm                               "
+2003.10.05.a,Grey Shark,"left thigh abraded, right knee and right index finger injured",N,Y,Female,41,Wading Near A Fishing Net,USA,Hawaii,2003,05-Oct-03,12h55,Unprovoked,"G. Kubota, Star Bulletin"
+2003.10.31.a,Tiger Shark,left arm severed below shoulder,N,Y,Female,13,Surfing,USA,Hawaii,2003,31-Oct-03,07h30,Unprovoked," E. Ritter, GSAF  "
+2003.10.31.b,Bronze Whaler Shark,left ankle and foot lacerated,N,Y,Male,22,Surfing,Australia,New South Wales,2003,31-Oct-03,17h30,Unprovoked,ABC News Australia
+2003.11.00,Nurse Shark,left forearm bitten provoked incident,N,N,Male,NA,Spearfishing,Panama,Pearl Islands,2003,Nov-03,NA,Provoked,"J. Eager, scubaradio.com"
+2003.11.06.a,White Shark,"no injury to occupants, hull of ski bitten",N,Y,NA,NA,Surf Skiing,South Africa,Kwazulu-Natal,2003,06-Nov-03,NA,Unprovoked,Natal Sharks Board
+2003.11.06.b,White Shark,hand/elbow injured,N,Y,Male,NA,Snorkeling,Egypt,Sinai Peninsula,2003,06-Nov-03,NA,Unprovoked,N. Pankratov
+2003.11.12.b,Tiger Shark,left index finger lacerated,N,Y,Male,35,Swimming Or Surfing,India,Tamilnadu,2003,12-Nov-03,NA,Unprovoked," P.C.V. Kumar; A. Patil, GSAF   "
+2003.11.27,Tiger Shark,"presumed fatal, severed hand recovered",Y,Y,Male,21,Spearfishing,South Africa,Kwazulu-Natal,2003,27-Nov-03,>08h00,Unprovoked,"E. Ritter, GSAF"
+2004.01.07,Raggedtooth Shark,foot lacerated,N,Y,Male,22,Surfing,South Africa,Eastern Cape Province,2004,07-Jan-04,NA,Unprovoked,"A. Cobb & E. Ritter, GSAF"
+2004.01.12,Raggedtooth Shark,"no injury, swim fin ripped off",N,Y,Male,NA,Diving,Australia,New South Wales,2004,12-Jan-04,Midday,Unprovoked,"T. Peake, GSAF"
+2004.01.21.a,Bull Shark,right leg bitten,N,Y,Male,40,Spearfishing,Venezuela,Anzoategui,2004,21-Jan-04,11h00,Unprovoked,"D. Ramierez, GSAF       "
+2004.01.21.b,Bull Shark,lower back and hand bitten,N,Y,Male,NA,Swimming,Venezuela,Anzoategui,2004,21-Jan-04,14h30,Unprovoked,"D. Ramierez, GSAF       "
+2004.01.23,Tiger Shark,puncture wounds to dorsum of right foot,N,Y,Male,21,Surfing,Uruguay,Rocha,2004,23-Jan-04,NA,Unprovoked,C.M. Prigioni el al
+2004.01.25,White Shark,left leg bitten,N,Y,Male,46,Scuba Diving,Australia,Western Australia,2004,25-Jan-04,11h05,Unprovoked,"T. Peake, GSAF"
+2004.03.06,Bronze Whaler Shark,shin and calf bitten,N,Y,Male,47,Spearfishing,Australia,Western Australia,2004,06-Mar-04,NA,Unprovoked,"T. Peake, GSAF; Sunday Times (Perth) 3/7/2004, p.19"
+2004.03.16,Tiger Shark,"no injury, board bitten",N,Y,Male,51,Surfing,USA,Hawaii,2004,16-Mar-04,07h45,Unprovoked,The Hawaii Channel
+2004.03.22,Bronze Whaler Shark,no injury,N,Y,Male,NA,Spearfishing,New Zealand,North Island,2004,22-Mar-04,12h30,Unprovoked,J. Edgar
+2004.03.28,Bull Shark,heel bitten,N,Y,Male,NA,Surfing,USA,Florida,2004,28-Mar-04,15h00,Unprovoked,"J.D. Gallop, Florida Today"
+2004.03.29,Bull Shark,"lower left leg bitten, surgically amputated",N,Y,Male,22,Body Boarding,Brazil,Pernambuco,2004,29-Mar-04,07h30,Unprovoked,"P.M. Lopes, GSAF; Diaro, 3/30/2004"
+2004.03.31.a,Bull Shark,15 puncture wounds on foot,N,Y,Male,20,Surfing,USA,Florida,2004,31-Mar-04,09h00,Unprovoked,"T. Jerome, GSAF; Palm Beach Post,  4/1/2004"
+2004.04.05,White Shark,"left leg lacerated, right leg severed above the knee ",N,Y,Male,16,Surfing,South Africa,Western Cape Province,2004,05-Apr-04,14h00,Unprovoked,"L. Compagno & E. Ritter, GSAF"
+2004.04.07,Tiger Shark,fatal severe wound to right thigh and calf,Y,Y,Male,57,Surfing,USA,Hawaii,2004,07-Apr-04,07h08,Unprovoked,"L. Fujimoto, B. Perry & M. Tanji, Maui News "
+2004.04.22,White Shark,"no injury to occupants, boat scratched by shark",N,Y,NA,NA,Fishing,New Zealand,North Island,2004,22-Apr-04,NA,Boat,"T. Peake, GSAF"
+2004.05.18,Caribbean Reef Shark,left forearm bitten provoked incident,N,N,Male,63,Free Diving And Spearfishing,Bahamas,Abaco Islands,2004,18-May-04,15h00,Provoked,"W. Leander, M. Levine, GSAF"
+2004.05.23.b,Bull Shark,"left hand, foot severed and  left calf and arm bitten",N,Y,Male,17,Swimming,Brazil,Pernambuco,2004,23-May-04,14h30,Unprovoked,"P. M. Lopes, GSAF; JC, 5/24/2004"
+2004.06.02,White Shark,"fatal, leg severed ",Y,Y,Male,21,"Swimming, Poaching Perlemoen",South Africa,Western Cape Province,2004,02-Jun-04,15h00,Unprovoked,"J. Smetherham & B. Ndenze, Cape Times"
+2004.06.10.b,Bronze Whaler Shark,ankle and foot lacerated,N,Y,Male,17,Body Boarding,Australia,Western Australia,2004,10-Jun-04,Late afternoon,Unprovoked,"T. Peake, GSAF"
+2004.06.26.b,White Shark,"no injury, shark struck his board",N,Y,Male,45,Surfing,USA,California,2004,26-Jun-04,09h00,Unprovoked,R. Collier; GSAF
+2004.07.19.R,White Shark,"no injury to occupants; shark mouthed motor, severed anchor line",N,Y,NA,NA,Fishing,Australia,Western Australia,2004," 19-Jul-2004 Reported to have happened  ""on the weekend""",NA,Boat,"Channel 9; Northern Territory News, 7/20/2004, p.10 "
+2004.07.25,Bull Shark,right forearm nearly severed and bites above and below the right knee,N,Y,Male,11,Wading / Fishing And Carrying A Bag Of Fish,USA,Texas,2004,25-Jul-04,19h30,Unprovoked,KRISTV.com
+2004.07.30,White Shark,thigh and calf bitten,N,Y,Male,NA,Diving And Fishing With Net,Russia,Kuril Islands In The Pacific,2004,30-Jul-04,NA,Unprovoked,"M. Gozum & J. Eager, scubaradio.com"
+2004.08.00,White Shark,no injury to occupants; boat damaged,N,Y,NA,NA,Fishing,South Africa,Kwazulu-Natal,2004,Aug-04,NA,Boat,"J. Eager, scubaradio.com"
+2004.08.15,White Shark,fatal,Y,Y,Male,50,Diving,USA,California,2004,15-Aug-04,16h00,Unprovoked,"R. Collier & L. Levine, GSAF"
+2004.08.20,White Shark,foot bitten,N,Y,Male,NA,Surfing,USA,California,2004,20-Aug-04,17h30,Unprovoked,"R. Collier, GSAF"
+2004.08.21,Tiger Shark,calf bitten and both hands injured,N,Y,Male,24,Bathing,Brazil,Pernambuco,2004,21-Aug-04,13h00,Unprovoked,"P. M. Lopes, GSAF, 8/22/2004"
+2004.09.20,White Shark,leg bitten,N,Y,Male,26,Surfing,USA,Oregon,2004,20-Sep-04,09h00,Unprovoked,"S. Mead, R. Collier, J. Eager, B. Middleton"
+2004.09.25,Tiger Shark,"no injury to occupants, boat damaged",N,Y,NA,NA,Spearfishing/ Filming,Australia,Queensland,2004,25-Sep-04,12h00,Boat,"R. Collier, GSAF"
+2004.10.06,Tiger Shark,"leg severely bitten, surgically amputated",N,Y,Male,15,Body Boarding,Reunion,Conservatória District,2004,06-Oct-04,16h15,Unprovoked,Federation Francaise de Surf
+2004.10.09.a,Raggedtooth Shark,puncture wounds on right foot,N,Y,Male,34,Surfing,South Africa,Eastern Cape Province,2004,09-Oct-04,Morning,Unprovoked,"Sunday Argus, 10/10/2004; W. Steenkamp, Cape Times 10/9/2004"
+2004.10.09.b,Tiger Shark,left shoulder bitten,N,Y,Male,34,Spearfishing,USA,Hawaii,2004,09-Oct-04,12h40,Unprovoked,"The Maui News, 10/10/2004 "
+2004.10.10,White Shark,lower leg bitten,N,Y,Male,NA,Surfing,USA,California,2004,10-Oct-04,09h30,Unprovoked,"R. Collier, GSAF"
+2004.10.21,Bronze Whaler Shark,right foot lacerated,N,Y,Male,59,Surfing,Australia,New South Wales,2004,21-Oct-04,Afternoon,Unprovoked,"The Border Mail, 10/23/2004"
+2004.10.30.a,White Shark,right ankle and foot lacerated,N,Y,Male,52,Chumming For White Sharks,South Africa,Western Cape Province,2004,30-Oct-04,Morning,Unprovoked,"J.P. Botha, GSAF"
+2004.10.31,Bull Shark,left forearm bitten,N,Y,Male,40,Diving,Cuba,Camaguey Province,2004,31-Oct-04,14h00,Unprovoked,"E. Ritter, GSAF"
+2004.11.11.b,White Shark,"lacerations to hand, knee and thigh ",N,Y,NA,38,Surfing,USA,California,2004,11-Nov-04,13h30,Unprovoked,"R. Collier, GSAF                "
+2004.11.15,White Shark,fatal,Y,Y,Female,77,Swimming,South Africa,Western Cape Province,2004,15-Nov-04,07h00,Unprovoked,"J.P. Botha, GSAF"
+2004.11.26,Raggedtooth Shark,lacerations on lower leg and foot,N,Y,Male,16,Playing,South Africa,Eastern Cape Province,2004,26-Nov-04,NA,Unprovoked,J. Eager
+2004.11.27,Raggedtooth Shark,3 lacerations on foot,N,Y,Male,20,Surfing,South Africa,Eastern Cape Province,2004,27-Nov-04,18h00,Unprovoked,J. Eager
+2004.12.11,Bull Shark,"fatal, leg bitten",Y,Y,Male,38,Spearfishing,Australia,Queensland,2004,11-Dec-04,13h00,Unprovoked,"Weekend Australian, 2/17/2005, et al."
+2004.12.16,White Shark,fatal,Y,Y,Male,18,Scurfing (Surfboard Being  Towed Behind A Boat),Australia,South Australia,2004,16-Dec-04,15h15,Unprovoked,"P. Kemp & T. Peake, GSAF"
+2005.01.08,White Shark,"no injury, kayak bumped repeatedly",N,Y,Male,39,Fishing From A Kayak,New Zealand,North Island,2005,08-Jan-05,12h00,Unprovoked,"R. Collier & R.D. Weeks, GSAF                "
+2005.01.14,Bronze Whaler Shark,"no injury to occupants, one of the boat's flotation tanks holed provoked incident",N,N,NA,NA,Attempting To Drive Shark Away From Sailing Regatta,Australia,Victoria,2005,14-Jan-05,14h00,Provoked,Herald Sun News
+2005.02.13,Caribbean Reef Shark,hand bitten,N,Y,Male,NA,Spearfishing,USA,Florida,2005,13-Feb-05,NA,Unprovoked,J. Herrera
+2005.02.16,Tiger Shark,"no injury, knocked off board, shark bit board",N,Y,Male,NA,Surfing,USA,Hawaii,2005,16-Feb-05,14h30,Unprovoked," R. Collier, GSAF;  T. Winters, Honolulu Advertiser, 2/17/2005 "
+2005.02.22,Nurse Shark,speared shark bit his chest provoked incident,N,N,Male,NA,Spearfishing,USA,Florida,2005,22-Feb-05,NA,Provoked,http://www.foldabikes.com/CurrentEvents/Story/Florida.html
+2005.02.26,Bull Shark,finger bitten,N,Y,Male,18,Swimming,Australia,Queensland,2005,26-Feb-05,NA,Unprovoked,Queensland Times
+2005.03.09,Bronze Whaler Shark,"no injury, netted shark dragged them 350 metres out to sea provoked incident",N,N,Male,NA,Fishing,New Zealand,North Island,2005,09-Mar-05,14h00,Provoked,"R.D. Weeks, GSAF"
+2005.03.12,Tiger Shark,2 punctures on forearm as captive shark collided with diver provoked incident,N,N,Male,45,Diving In Aquarium Display Tank,USA,New Mexico,2005,12-Mar-05,15h30,Provoked,"H. Casman; T. Dukart, KOBTV"
+2005.03.19,White Shark,fatal,Y,Y,Male,26,Snorkeling,Australia,Western Australia,2005,19-Mar-05,14h00,Unprovoked,"T. Peake, GSAF"
+2005.04.06,Hammerhead Shark,left calf injured,N,Y,Female,NA,Na,USA,Florida,2005,06-Apr-05,NA,Unprovoked,WJXT News4Jax.com
+2005.04.13,Blacktip Shark,right lower leg bitten,N,Y,Female,70,Wading,USA,Florida,2005,13-Apr-05,NA,Unprovoked,Herald Tribune.com
+2005.04.16.a,Bronze Whaler Shark,"no injury, board bitten",N,Y,Male,40,Surfing,Australia,New South Wales,2005,16-Apr-05,06h10,Unprovoked,The Sun; Illwarra Mercury; Yahoo News
+2005.05.02,Tiger Shark,"no injury, board damaged",N,Y,Male,47,Surfing,USA,Hawaii,2005,02-May-05,10h30,Unprovoked,"T. Hurley, Honolulu Advertiser; L. Fujimoto, Maui News, 5/3/2005 "
+2005.05.14,Tiger Shark,"no injury, shark bit kayak",N,Y,NA,NA,Kayaking,USA,Hawaii,2005,14-May-05,11h00,Unprovoked,Hawaii Department of Land and Natural Resources
+2005.05.15,Blacktip Shark,severe injury to lower leg,N,Y,Male,NA,Spearfishing,Australia,Queensland,2005,15-May-05,NA,Unprovoked,"J. Anderson, Townsville Bulletin, 5/21/2005 "
+2005.05.25,Raggedtooth Shark,left buttock  and legs lacerated ,N,Y,Male,32,Surfing,South Africa,Eastern Cape Province,2005,25-May-05,11h00,Unprovoked,"C. Prince, East London Daily Dispatch, 5/26/2005;  SABC News"
+2005.06.04,White Shark,fatal,Y,Y,Male,22,Spearfishing (Free Diving),South Africa,Western Cape Province,2005,04-Jun-05,15h45,Unprovoked,News24.com; SABC; H. Steele
+2005.06.13,White Shark,knee bitten,N,Y,Female,38,Diving,South Korea,South Ch'Ungch'Ong Province,2005,13-Jun-05,NA,Unprovoked,"Korea Times, 6/13/2005 "
+2005.06.25,Bull Shark,"fatal, leg bitten",Y,Y,Female,14,Swimming With Boogie Board,USA,Florida,2005,25-Jun-05,11h15,Unprovoked,"E. Ritter, GSAF"
+2005.06.27,Bull Shark,"leg severely bitten, surgically amputated",N,Y,Male,16,Fishing,USA,Florida,2005,27-Jun-05,11h30,Unprovoked,"E. Ritter, GSAF"
+2005.08.21,Blacktip Shark,bitten underneath left arm,N,Y,Male,8,Swimming,USA,South Carolina,2005,21-Aug-05,Morning,Unprovoked,"Clay Creswell, GSAF"
+2005.08.24.a,White Shark,lower right leg lacerated,N,Y,Male,37,Surfing,USA,California,2005,24-Aug-05,11h00,Unprovoked,"R. Collier, GSAF                "
+2005.08.24.b,White Shark,fatal,Y,Y,Male,23,Scuba Diving,Australia,South Australia,2005,24-Aug-05,16h10,Unprovoked,"Adelaide Advertiser, 8/26/2005"
+2005.09.04.a,White Shark,lacerations to right arm and thigh,N,Y,Male,40,Surfing,Australia,South Australia,2005,04-Sep-05,15h00,Unprovoked,"C.Jenkin, Courier-Mail, 9/5/2005"
+2005.09.05,Bull Shark,calf severely lacerated,N,Y,Female,18,Wading,USA,North Carolina,2005,05-Sep-05,15h20,Unprovoked,"Clay Creswell, GSAF"
+2005.09.23,Bronze Whaler Shark, no injury,N,Y,Male,44,Surfing,Australia,Western Australia,2005,23-Sep-05,Morning,Unprovoked,"T. Peake, GSAF"
+2005.09.24,White Shark,lacerations to legs,N,Y,Male,26,Surfing,Australia,South Australia,2005,24-Sep-05,12h05,Unprovoked,"T. Peake, GSAF"
+2005.09.27.R,Tiger Shark,"no injury, knocked off board",N,Y,Male,28,Surfing,Australia,New South Wales,2005,Reported      27-Sep-2005,NA,Unprovoked,"Macleay Argues, 9/27/2005"
+2005.10.01,White Shark,"no injury, shark bit ski",N,Y,Male,52,Surf-Skiing,South Africa,Western Cape Province,2005,01-Oct-05,15h00,Unprovoked,"Cape Argus, Cape Times, 10/3/2005"
+2005.10.11,Caribbean Reef Shark,no injury ,N,Y,Female,57,Scuba Diving,Grand Cayman,East Wall,2005,11-Oct-05,15h00,Unprovoked,"L.A.Hughes; G. Holt, Scubaradio.com"
+2005.10.13,Tiger Shark,"no injury, surfboard bitten",N,Y,Male,22,Surfing,USA,Hawaii,2005,13-Oct-05,18h00,Unprovoked,Hawaii Department of Land and Natural Resources
+2005.10.19,White Shark,leg bitten,N,Y,Female,20,Surfing,USA,California,2005,19-Oct-05,10h30,Unprovoked,"R. Collier, GSAF; Bay City Newswire"
+2005.10.21,White Shark,no injury,N,Y,Male,36,Surfing,USA,California,2005,21-Oct-05,11h00,Unprovoked,"R. Collier, GSAF"
+2005.11.02.a,White Shark,"no injury, board bumped",N,Y,Male,26,Surfing,USA,California,2005,02-Nov-05,07h15,Unprovoked,"R. Collier, GSAF"
+2005.11.15,Raggedtooth Shark,lacerations to hands and right leg when he tried to pull shark from the water provoked incident,N,N,Male,32,Fishing For Sharks,South Africa,Eastern Cape Province,2005,15-Nov-05,14h00,Provoked,J. Visser
+2005.11.16.R,White Shark,"no injury to occupants, shark lifted bow of boat 3 times",N,Y,NA,NA,Na,New Caledonia,Na,2005,Reported  16-Nov-2005,NA,Boat,"Le Quotidien, 11/16/2005, p.62"
+2005.11.25.c,White Shark,"no injury to occupant, shark bit outboard motor",N,Y,NA,NA,Fishing,Australia,Victoria,2005,25-Nov-05,NA,Boat,"Sunday Mail (QLD), 11/27/2005, p.30"
+2005.12.05.R,White Shark,"no injury to occupants, hydrofoil of outboard motor bitten ",N,Y,NA,NA,Fishing,Australia,South Australia,2005,Reported 06-Dec-2005,15h30,Boat,"Melbourne Herald Sun, 12/5/2005"
+2005.12.11,White Shark,right forearm and elbow bitten,N,Y,Male,44,Spearfishing,Australia,Queensland,2005,11-Dec-05,11h00,Unprovoked,"Courier-Mail, 12/12/2005"
+2005.12.21,Tiger Shark,left hand bitten,N,Y,Male,29,Swimming,USA,Hawaii,2005,21-Dec-05,11h45,Unprovoked, San Francisco Gate 2/21/2005
+2005.12.24,White Shark,lacerations to ankle and calf,N,Y,Male,30,Surfing,USA,Oregon,2005,24-Dec-05,12h00,Unprovoked,"R. Collier, GSAF; L.A. Times, 12/25/2005"
+2006.01.07,Bull Shark,fatal,Y,Y,Female,21,Swimming,Australia,Queensland,2006,07-Jan-06,17h15,Unprovoked,"T. Peake, GSAF"
+2006.01.15,White Shark,lacerations to left elbow,N,Y,Male,52,Scuba Diving,Australia,Western Australia,2006,15-Jan-06,11h00,Unprovoked,"T. Peake, GSAF"
+2006.02.01.b,Tiger Shark,severe bite to right leg fatal,Y,Y,Female,24,Swimming,Tonga,Vava'U,2006,01-Feb-06,18h00,Unprovoked,D. Clem; www.matangitonga.to
+2006.02.08,Raggedtooth Shark,2 bite marks on right calf,N,Y,Male,15,Surfing,South Africa,Eastern Cape Province,2006,08-Feb-06,Late afternoon,Unprovoked,"M. Kabeli, Dispatch Online.com; G. Brett & K. Cole, EL Museum"
+2006.02.12.a,White Shark,no injury to occupants; shark nudged the 5.3 m boat,N,Y,Male,NA,Fishing,Australia,South Australia,2006,12-Feb-06,12h00,Boat,Port Adelaide Football Club
+2006.03.15,Bronze Whaler Shark,"no injury, shark nudged surfboard",N,Y,Male,15,Surfing,Australia,New South Wales,2006,15-Mar-06,17h00,Unprovoked,"The Australian, 3/15/2006"
+2006.03.19,Tiger Shark,lacerations to right hand,N,Y,Male,21,Surfing,Fiji,Vitu Levu,2006,18-Mar-06,18h00,Unprovoked,"R.D. Weeks, GSAF; Fiji Sun, 3/19/2006"
+2006.03.23,Tiger Shark,5 puncture wounds in left calf,N,Y,Female,28,Surfing,USA,Hawaii,2006,23-Mar-06,11h30,Unprovoked,Honolulu Advertiser
+2006.04.09.a,Tiger Shark,left leg bitten,N,Y,Male,35,Swimming,Brazil,Pernambuco,2006,09-Apr-06,Afternoon,Unprovoked,"Diario de Pernambuco, 4/10/2006"
+2006.04.09.b,Raggedtooth Shark,leg bitten,N,Y,Male,15,Body Boarding,South Africa,Eastern Cape Province,2006,09-Apr-06,17h30,Unprovoked,J. Visser
+2006.04.11,Bronze Whaler Shark,minor laceration to left foot,N,Y,Male,15,Surfing,Australia,New South Wales,2006,11-Apr-06,13h30,Unprovoked,"Daily Telegraph, 4/12/2006"
+2006.04.13,Bull Shark,3 to 4 cm laceration on foot from hooked shark brought on board provoked incident,N,N,Male,35,Fishing,USA,Florida,2006,13-Apr-06,Afternoon,Provoked,"Naples News, 4/13/2006"
+2006.05.19,Tiger Shark,laceration to leg,N,Y,Female,NA,Scuba Diving,USA,Guam,2006,19-May-06,15h30,Unprovoked,R. Segal
+2006.05.24,Grey Shark,knee bitten after diver poked shark provoked incident,N,N,Male,15,Spearfishing,USA,Hawaii,2006,24-May-06,16h30,Provoked,"Maui News, 5/26/2006"
+2006.05.28,Tiger Shark,"no injury to occupants, boat damaged by hooked shark provoked incident",N,N,NA,NA,Tagging Sharks,USA,Hawaii,2006,28-May-06,Afternoon,Provoked,"Honolulu Advertiser, 5/29/2006"
+2006.05.31,Tiger Shark,"4"" laceration to left forearm",N,Y,Male,26,Spearfishing,USA,Hawaii,2006,31-May-06,13h30,Unprovoked,"P. Immerz; Honolulu Advertiser, 6/1/2006"
+2006.06.05,White Shark,"no injury, knocked off surfboard",N,Y,Male,40,Surfing,Australia,South Australia,2006,05-Jun-06,11h30,Unprovoked,"P.Kemp, GSAF; Sunday Mail (Adelaide), 6/11/2006, p.17"
+2006.06.20,Blacktip Shark,2-inch puncture wounds on right foot,N,Y,Female,22,Surfing,USA,Florida,2006,20-Jun-06,13h00,Unprovoked," S. Petersohn, GSAF; P. Immerz"
+2006.06.30.a,Blacktip Shark,minor injuries,N,Y,Male,35,Spearfishing,USA,Florida,2006,Jul-06,NA,Unprovoked,"Swimming World Magazine, 2 July 2006"
+2006.06.30.b,Blacktip Shark,lacerations and puncture wound  to arm,N,Y,Female,28,Spearfishing,USA,Florida,2006,Jul-06,NA,Unprovoked,"Swimming World Magazine, 2 July 2006"
+2006.07.08.b,Bull Shark,foot bitten,N,Y,Female,14,Body Boarding,USA,South Carolina,2006,08-Jul-06,11h00,Unprovoked,"C. Creswell, GSAF"
+2006.07.10,Tiger Shark,fatal,Y,Y,Male,NA,Na,Brazil,Pernambuco,2006,10-Jul-06,NA,Unprovoked,"Qualittas; F. Hazin; N. Souza; Folho de Pernambuco, 7/12/2006"
+2006.07.23,Bull Shark,right foot bitten,N,Y,Male,NA,Surf Fishing,USA,Texas,2006,23-Jul-06,NA,Unprovoked,KHOU.com
+2006.07.28,White Shark,"no injury, surf ski bitten",N,Y,Male,19,Surf-Skiing,South Africa,Western Cape Province,2006,28-Jul-06,16h30,Unprovoked,"Cape Argus, 7/29/2006"
+2006.07.31.a,White Shark,minor injury,N,Y,Male,41,Surfing,USA,Oregon,2006,31-Jul-06,16h00,Unprovoked,"R. Collier, GSAF"
+2006.08.00.a,Bull Shark,thigh bitten,N,Y,Male,NA,Spearfishing,Reunion,Na,2006,Early Aug-2006,NA,Unprovoked,"Clicanoo, 8/29/2006"
+2006.08.13,White Shark,foot severed,N,Y,Male,24,Lifesaving Drill,South Africa,Western Cape Province,2006,13-Aug-06,11h00,Unprovoked,P. Immerz 
+2006.08.29.a,Bronze Whaler Shark,"no injury, shark towed  surfer and board",N,Y,Male,NA,Surfing,Australia,South Australia,2006,29-Aug-06,16h00,Unprovoked,"P. Kemp, GSAF; S. Black, The Islander, 9/7/2006"
+2006.09.02,White Shark,"no injury, shark rammed surfboard",N,Y,Male,37,Surfing,South Africa,Western Cape Province,2006,02-Sep-06,NA,Unprovoked,"Cape Times, 9/3/2006"
+2006.09.18.R,Nurse Shark,lacerations to upper lip    provoked incident,N,N,Male,NA,Diving / Kissing The Shark,USA,Florida,2006,Reported 18-Sep-2006,NA,Provoked,"CBS-4, 9/18/2006"
+2006.10.31,White Shark,"no injury, surfboard bitten",N,Y,Male,22,Surfing,USA,Oregon,2006,31-Oct-06,Just before sundown,Unprovoked,R. Collier
+2006.11.09,Bull Shark,left arm lacerated when he grabbed shark by its tail provoked incident,N,N,Male,NA,Canoeing,South Africa,Eastern Cape Province,2006,09-Nov-06,Afternoon,Provoked,"P. Immerz, SharkProject"
+2006.12.02,White Shark,"right leg severed, left leg lacerated",N,Y,Male,15,Body Boarding,Australia,Western Australia,2006,02-Dec-06,07h30,Unprovoked,"P. Kemp, GSAF, Sunday Mail, 12/3/2006"
+2006.12.06,Raggedtooth Shark,"hand, thigh and calf bitten by hooked shark provoked incident",N,N,Male,25,Fishing,South Africa,Kwazulu-Natal,2006,06-Dec-06,"""Evening""",Provoked,"C. Johansson; Pretoria News, 12/8/2006"
+2006.12.10,White Shark,"minor injuries, surfboard bitten",N,Y,Male,43,Surfing,USA,California,2006,10-Dec-06,11h50,Unprovoked,"P. Immerz; R. Collier; San Francisco Chronicle, 12/11/2006 "
+2007.01.05,Tiger Shark,"no injury, shark removed piece of surfboard",N,Y,Male,24,Surfing,USA,Hawaii,2007,01-Jan-07,10h15,Unprovoked,"P. Immerz, SharkProject.org; J. TenBruggencate, Honolulu Advertiser, 1/5/2007"
+2007.01.14,Tiger Shark,"presumed fatal, body not recovered",Y,Y,Male,24,Swimming / Body Surfing,South Africa,Eastern Cape Province,2007,14-Jan-07,Afternoon,Unprovoked,"G. Cliff, Natal Sharks Board; East London Dispatch, 1/18/2007"
+2007.01.23,White Shark,head and torso bitten,N,Y,Male,41,Diving,Australia,New South Wales,2007,23-Jan-07,10h30,Unprovoked,"NZ Herald, 1/23/2007"
+2007.01.25.b,Tiger Shark,leg bitten,N,Y,Male,30,Spearfishing (Free Diving),New Caledonia,North Province,2007,25-Jan-07,14h00,Unprovoked,"Les Nouvelles Caledoniennes, 1/29/2007"
+2007.03.05.R,Tiger Shark,leg bitten  by shark after he shot at it and missed  provoked incident,N,N,Male,16,Spearfishing,New Zealand,Cook Islans,2007,Reported 05-Mar-2007,NA,Provoked,"R. Weeks, GSAF"
+2007.04.09,Tiger Shark,left foot bitten,N,Y,Male,26,Surfing,New Caledonia,South Province,2007,09-Apr-07,16h00,Unprovoked,"Les Nouvelles Calédoniennes, 4/11/2007"
+2007.04.13.R,Bull Shark,"no injury to occupants, shark holed the transom-mounted livewell ",N,Y,NA,NA,Fishing,USA,Florida,2007,Reported      13-Apr-2007,NA,Boat,"Florida Today, 4/13/2007; A. Brenneka"
+2007.04.22,Blacktip Shark,left foot bitten,N,Y,Male,12,Body Boarding,USA,Florida,2007,22-Apr-07,12h30,Unprovoked,"Sun-Sentinel, 4/23/2007"
+2007.05.00,Lemon Shark,lacerations to right upper arm by captive shark provoked incident,N,N,Female,20,Shark Tagging,Bahamas,Bimini Islands,2007,May-07,NA,Provoked,S. Garcia
+2007.05.07.b,Tiger Shark,right foot bitten,N,Y,Female,63,Snorkeling,USA,Hawaii,2007,07-May-07,08h30,Unprovoked,"G. Kubota, Honolulu Star Bulletin, 5/8/2007"
+2007.05.09.R,White Shark,no injury,N,Y,Male,NA,Snorkeling,Seychelles,Bird Island,2007,Reported 09-May-2007,NA,Unprovoked,Seychelles Forum
+2007.05.24,Blacktip Shark,left shin bitten by captive shark provoked incident,N,N,Female,40,Reviving A Sedated Shark,USA,Virginia,2007,24-May-07,Morning,Provoked,WAVY-TV10-News
+2007.06.24,Tiger Shark,"no injury, board damaged",N,Y,Male,NA,Surfing,USA,Hawaii,2007,24-Jun-07,07h05,Unprovoked,"G. Lee, KGMB9.com"
+2007.06.30.b,Lemon Shark,lacerations to right  hand by hooked shark provoked incident,N,N,Male,NA,Removing Hook From Shark,USA,Florida,2007,30-Jun-07,NA,Provoked,S. Gruber; SharkAttackSurvivors.com
+2007.07.10,Bull Shark,"lacerations to thumb, ring and pinky fingers of right hand ",N,Y,Female,48,Spearfishing,Bahamas,Abaco Islands,2007,10-Jul-07,11h00,Unprovoked,J. Regan
+2007.07.19.a,Bronze Whaler Shark,calf bitten,N,Y,Male,15,Wading,Australia,Territory Of Cocos (Keeling) Islands,2007,19-Jul-2007.a,11h00,Unprovoked,"The Western Australian, 7/20/2007"
+2007.07.21,White Shark,"no injury, kayak bitten",N,Y,Male,NA,Kayak Fishing,USA,California,2007,21-Jul-07,10h15,Boat,"R. Collier; San Francisco Chronicle, 7/23/2007; NorCal Kayak Anglers"
+2007.07.22,White Shark,"no injury, surfboard bumped by shark for 20 minutes",N,Y,Male,NA,Surf Paddling,USA,California,2007,22-Jul-07,NA,Unprovoked,R. Collier
+2007.08.07,Bull Shark,lacerations to arm,N,Y,Female,19,Jumped Into The Water,USA,Florida,2007,07-Aug-07,Afternoon,Unprovoked,"Miami Herald, 8/8/2007"
+2007.08.15,Bull Shark,puncture wounds to torso,N,Y,Male,20,Floating Near Boat And Observing Bioluminesce,USA,Florida,2007,15-Aug-07,Night,Unprovoked,"Charlotte Observer, 8/18/2007"
+2007.08.20,Tiger Shark,forearm bitten by hooked shark provoked incident,N,N,Male,NA,Fishing,USA,Delaware,2007,20-Aug-07,19h45,Provoked,"Delaware Coast Press, 8/24/2007"
+2007.08.28.a,White Shark,lacerations to thigh and torso,N,Y,Male,24,Surfing,USA,California,2007,28-Aug-07,10h45,Unprovoked,R. Collier
+2007.08.28.b,Tiger Shark,laceration to right heel,N,Y,Male,15,Body Boarding,USA,Hawaii,2007,28-Aug-07,16h30,Unprovoked,"Honolulu Advertiser, 8/29/2007"
+2007.09.13,Nurse Shark,"minor injury, shark latched onto his abdomen",N,Y,Male,14,Snorkeling,USA,Florida,2007,13-Sep-07,16h00,Unprovoked,"Miami Herald, 9/13/2007; Sun-Sentinel, 9/14/2007"
+2007.09.27.a,White Shark,"severe lacerations to lower left leg, ankle and foot",N,Y,Female,NA,Swimming,Egypt,Red Sea,2007,27-Sep-07,07h00,Unprovoked,"E. Ritter & Y. Sobolev, GSAF; M. Salem "
+2007.09.27.b,White Shark,"no injury to surfer, surfboard bitten",N,Y,Female,NA,Surfing,USA,California,2007,27-Sep-07,08h15,Unprovoked,R. Collier
+2007.09.28,Caribbean Reef Shark,thigh bitten,N,Y,Female,48,Spearfishing,Bahamas,Grand Bahama Island,2007,28-Sep-07,12h00,Unprovoked,"A. Brenneka, SharkAttackSurvivors.com"
+2007.09.30.a,Tiger Shark,fatal,Y,Y,Female,23,Swimming,New Caledonia,Loyalty Islands,2007,30-Sep-07,Early morning,Unprovoked,"Les Nouvelles Caledoniennes, 10/1/2007 "
+2007.10.06,Blacktip Shark,severe lacerations to right hand,N,Y,Male,16,Surfing,USA,Florida,2007,06-Oct-07,08h10,Unprovoked,E. H.
+2007.10.13,Bronze Whaler Shark,laceration to calf,N,Y,Male,31,Spearfishing,Australia,Queensland,2007,13-Oct-07,12h00,Unprovoked,"news.com.au, 10/14/2007"
+2007.10.15,White Shark,small laceration to wrist,N,Y,Female,52,Surf-Skiing,Australia,New South Wales,2007,15-Oct-07,11h30,Unprovoked,"Sydney Morning Herald, 10/15/2007"
+2007.10.29,Tiger Shark,lacerations to left lower leg,N,Y,Male,32,Floating,USA,Hawaii,2007,29-Oct-07,15h30,Unprovoked,KHNL8.com
+2007.11.03,White Shark,lacerations to thigh,N,Y,Male,37,Surfing,South Africa,Eastern Cape Province,2007,03-Nov-07,08h45,Unprovoked,Daily Dispatch
+2007.12.10,Tiger Shark,"no injury, shark bit surfboard ",N,Y,Male,52,Surfing,USA,Hawaii,2007,10-Dec-07,"""Just before 11h00""",Unprovoked,"Honolulu Advertiser, 12/12/2007"
+2008.00.00.a,Hammerhead Shark,leg bitten,N,Y,Male,26,Surfing,Mexico,Baja California,2008,Summer-2008,NA,Unprovoked,"San Diego Reader, 1/7/2009"
+2008.00.00.b,Nurse Shark,minor injury to hand by hooked shark   provoked incident,N,N,Male,NA,Fishing For Snapper,USA,Florida,2008,Fall 2008,NA,Provoked,Extremecoast.com/ 1/30/2009
+2008.01.14,Bronze Whaler Shark,"no injury to occupants, pontoon punctured",N,Y,NA,NA,Attempting To Chase Shark Out To Sea,New Zealand,North Island,2008,14-Jan-08,14h00,Boat,"TV3; R.D. Weeks, GSAF"
+2008.01.29,Blacktip Shark,"no injury to surf-skiier, shark holed ski",N,Y,Male,42,Surf-Skiing,South Africa,Kwazulu-Natal,2008,29-Jan-08,NA,Unprovoked,"The Mercury, 2/1/2008"
+2008.02.24,Bull Shark,"leg bitten, fatal",Y,Y,Male,49,Diving,Bahamas,Northern Bahamas,2008,24-Feb-08,10h00,Unprovoked,"Sun-Sentinel, 2/25/2008"
+2008.03.07,White Shark,"no injury to surfer, surfboard bitten by the shark",N,Y,Male,27,Surfing,USA,California,2008,07-Mar-08,08h00,Unprovoked,R. Collier
+2008.04.08,Bull Shark,fatal,Y,Y,Male,16,Body Boarding,Australia,New South Wales,2008,08-Apr-08,08h05,Unprovoked,"T. Peake, GSAF; NSW Police Force"
+2008.04.20.a,Tiger Shark,na,UNKNOWN,Y,Male,NA,Na,Australia,New South Wales,2008,20-Apr-08,NA,Unprovoked,"T. Peake, GSAF"
+2008.04.25,White Shark,fatal,Y,Y,Male,66,Swimming,USA,California,2008,25-Apr-08,07h00,Unprovoked,R. Collier
+2008.04.26.b,Bull Shark,lacerations to left foot,N,Y,Male,32,Swimming,New Caledonia,North Province,2008,26-Apr-08,Morning,Unprovoked,"Les Nouvelles Calédonie, 4/28/2008 & 4/29/2008"
+2008.04.28.b,Tiger Shark,fatal    severe bite to right thigh,Y,Y,Male,24,Surfing,Mexico,Guerro,2008,28-Apr-08,Afternoon,Unprovoked,Surfline.com
+2008.05.07.b,Bull Shark,lower legs bitten,N,Y,Male,40,Fishing,New Caledonia,North Province,2008,07-May-08,14h00,Unprovoked,"C. Johansson, GSAF"
+2008.05.10,White Shark,severe lacerations to left leg,N,Y,Male,37,Swimming,Australia,Western Australia,2008,10-May-08,07h30,Unprovoked,"Perth Now, 5/10/2008"
+2008.05.24.b,Tiger Shark,boat capsized in squall. 2 bodies scavenged  by sharks,N,Y,Male,NA,Sea Disaster,Bahamas,Grand Bahama Island,2008,24-May-08,NA,Sea Disaster,Associated Press
+2008.06.01.a,Bull Shark,"hand severed, buttocks bitten",N,Y,Male,14,Swimming,Brazil,Pernambuco,2008,01-Jun-08,15h00,Unprovoked,Associated Press
+2008.06.21,White Shark," no injury. shark bumped kayak, flinging her into the  water. ",N,Y,Female,40,Kayaking,USA,California,2008,21-Jun-08,09h00,Unprovoked,"R. Collier, GSAF"
+2008.06.26.R,White Shark,no injury,N,Y,Male,NA,Spearfishing (Free Diving),South Africa,Western Cape Province,2008,Reported 26-Jun-2008,NA,Unprovoked,D. Inggs; Gletwyn Rubidges Spearfishing and Freediving blog
+2008.06.28.a,White Shark,"no injury, ski bitten",N,Y,Male,46,Surf Skiing ,South Africa,Western Cape Province,2008,28-Jun-08,14h00,Unprovoked,
+2008.06.28.b,Bull Shark,lacerations to calf,N,Y,Male,42,Spearfishing,Bahamas,Abaco Islands,2008,28-Jun-08,11h00,Unprovoked,"M. Briggs; C. Johansson, GSAF"
+2008.07.18,White Shark,leg severed,N,Y,Male,NA,Diving,Egypt,Na,2008,18-Jul-08,NA,Unprovoked,Ocean7
+2008.07.30,White Shark,lacerations to fingers,N,Y,Male,NA,Na,South Africa,Na,2008,Reported 30-Jul-2008,NA,Unprovoked,http://www.youtube.com/watch?v=0jVJFXlapWY&feature=related
+2008.07.30.R,White Shark,"no injury, surfboard leash severed",N,Y,Male,31,Surfing,Australia,Victoria,2008,30-Jul-08,10h30,Unprovoked,"Herald Sun, 7/31/2008"
+2008.08.11,Tiger Shark,"no injury, shark grabbed his bag of fish",N,Y,Male,NA,Diving,USA,Hawaii,2008,11-Aug-08,14h00,Unprovoked,"Honolulu Advertiser, 8/13/2008"
+2008.08.16,Bull Shark,severe lacerations to left foot,N,Y,Female,38,Treading Water,USA,Us Virgin Islands,2008,16-Aug-08,Dusk,Unprovoked,"M. Levne, GSAF"
+2008.08.30.a,Blue Shark,wrist bitten by hooked shark provoked incident,N,N,Male,52,Fishing,England,North Devon,2008,30-Aug-08,NA,Provoked,"Telegraph.co.uk, 9/1/2008"
+2008.09.08,White Shark,"no injury to surfer, board bitten",N,Y,Male,NA,Surfing,USA,California,2008,08-Sep-08,10h30,Unprovoked,R. Collier
+2008.09.09,Tiger Shark,bitten on right thigh and calf,N,Y,Male,40,Surfing,USA,Hawaii,2008,09-Sep-08,16h30,Unprovoked,"Honolulu Advertiser, 9/10/08"
+2008.09.15,Bronze Whaler Shark,right hand lacerated by netted shark provoked incident,N,N,Male,43,Swimming,Australia,Northern Territory,2008,15-Sep-08,14h30,Provoked,"Northern Territory News, 9/18/2008"
+2008.10.06,White Shark,calf bitten,N,Y,Male,43,Spearfishing,Croatia," Split-Dalmatia Count,",2008,06-Oct-08,12h00,Unprovoked,A. De Maddalena
+2008.10.21,Lemon Shark,legs bitten,N,Y,Male,24,Spearfishing,New Caledonia,Na,2008,21-Oct-08,11h00,Unprovoked,"C. Johansson, GSAF"
+2008.10.22,Nurse Shark,small laceration to head from captive shark,N,N,Male,34,Scuba Diving,Australia,New South Wales,2008,22-Oct-08,17h20,Provoked,"Herald, 10/22/2008"
+2008.11.09.b,Bronze Whaler Shark,"no injury to occupant, shark bit dinghy and motor",N,Y,Male,NA,Fishing,Australia,South Australia,2008,09-Nov-08,NA,Boat,"C. Johansson, GSAF"
+2008.11.28,White Shark,lacerations to fingers,N,Y,Female,NA,Scuba Diving,Egypt,Red Sea,2008,28-Nov-08,Morning,Unprovoked,"E. Ritter, GSAF"
+2008.12.00,Zambesi Shark,fatal,Y,Y,Male,NA,Spearfishing,Mozambique,Inhambane Province,2008,Dec-08,NA,Unprovoked,J. Little
+2008.12.06,White Shark,shark bit boats sea anchor,N,Y,NA,NA,Fishing,Australia,New South Wales,2008,06-Dec-06,Morning,Boat,S. Chenhall
+2008.12.10,Raggedtooth Shark,"lacerations to knees, thigh and hip by hooked shark provoked incident  ",N,N,Male,15,Fishing,South Africa,Western Cape Province,2008,10-Dec-08,20h00,Provoked,"The Herald, 12/12/2008"
+2008.12.14,Bronze Whaler Shark,lacerations to left calf and ankle,N,Y,Male,NA,Fishing,New Zealand,North Island,2008,14-Dec-08,NA,Unprovoked,"R.D. Weeks, GSAF"
+2008.12.20,White Shark,"no injury, shark struck paddle",N,Y,Male,NA,Kayaking,USA,California,2008,20-Dec-08,15h00,Unprovoked,R. Collier
+2008.12.27.a,White Shark,fatal,Y,Y,Male,51,Snorkeling,Australia,Western Australia,2008,27-Dec-08,07h00,Unprovoked,"T. Peake, GSAF"
+2008.12.27.b,White Shark,"no injury, shark struck kayak, catapulting him into the water",N,Y,Male,29,Kayaking,Australia,New South Wales,2008,27-Dec-08,11h00,Unprovoked,"Canberra Times, 12/28/2008"
+2009.01.00,Bull Shark,lacerations to right calf,N,Y,NA,NA,Spearfishing,Cuba,Guantanamo Province,2009,Jan-09,NA,Unprovoked,"C. Johansson, GSAF"
+2009.01.11.a,White Shark,left thigh severely bitten,N,Y,Male,31,Surfing,Australia,New South Wales,2009,11-Jan-09,09h00,Unprovoked,"T. Peake, GSAF"
+2009.01.11.b,White Shark,severe lacerations to right leg,N,Y,Female,13,Surfing,Australia,Tasmania,2009,11-Jan-09,15h45,Unprovoked,"P. Kemp, GSAF; C. Black pp. 169-177"
+2009.01.18,White Shark,"no injury to occupants, shark bit propeller",N,Y,Male,NA,Fishing,Australia,Victoria,2009,18-Jan-09,09h20,Boat,"The Standard, 1/20/2009"
+2009.01.24.a,Tiger Shark,fatal,Y,Y,Male,25,Swimming,South Africa,Eastern Cape Province,2009,24-Jan-09,14h00,Unprovoked,"Daily Dispatch, 1/26/2009"
+2009.01.25,Bull Shark,severe lacerations to lower left leg,N,Y,Male,15,Spearfishing,Cuba,Guantanamo Province,2009,25-Jan-09,10h30,Unprovoked,"J. Emory; Caribbean Net,  4/142009"
+2009.02.07.b,White Shark,"no injury, surfboard dented",N,Y,Male,41,Surfing,Australia,New South Wales,2009,07-Feb-09,11h00,Unprovoked,"D. Keg; Herald Sun, 2/8/2009"
+2009.02.11,Bull Shark,severe injuries to right hand and right thigh. right hand  surgically amputated and his right leg a week later,N,Y,Male,31,"Diving, But On The Surface When Bitten By The Shark",Australia,New South Wales,2009,11-Feb-09,Before 07h00,Unprovoked,"ABC News, 2/11/2009"
+2009.02.12,White Shark,severe injury to hand ,N,Y,Male,33,Surfing,Australia,New South Wales,2009,12-Feb-09,19h30,Unprovoked,The Sydney Morning Herald 2/24/2009
+2009.03.02,Blue Shark,lacerations to arm and 2 fingers by hooked shark provoked incident,N,N,Male,40,Fishing,South Africa,Western Cape Province,2009,02-Mar-09,13h30,Provoked,"Cape Times, 3/3/2009"
+2009.03.17.R,Blacktip Shark,minor injury,N,Y,Female,NA,Feeding Fish,Malaysia,Strait Of Malacca,2009,Reported 17-Mar-2009,NA,Unprovoked,"C. Johansson, GSAF"
+2009.03.20,Bronze Whaler Shark,"laceration to right foot, puncture wounds to calf",N,Y,Male,17,Surfing,Australia,New South Wales,2009,20-Mar-09,18h45,Unprovoked,"Madurah Mail, 3/26/2009"
+2009.03.27,Raggedtooth Shark,calf bitten while helping angler measure the shark during fishing competition provoked incident,N,N,Male,59,Fishing ,South Africa,Eastern Cape Province,2009,27-Mar-09,NA,Provoked,"The Herald (Port Elizabeth), 3/27/2007"
+2009.04.06.a,White Shark,shark struck him but the diver was not injured,N,Y,Male,NA,Spearfishing,USA,California,2009,06-Apr-09,07h45,Unprovoked,R. Collier
+2009.05.12,Blacktip Shark,speared shark bit his forearm provoked incident,N,N,Male,27,Spearfishing,Guam,North Region,2009,12-May-09,Afternoon,Provoked,"N. Delgado, Pacific News Center; KUAM.com"
+2009.05.16.a,Blacktip Shark,lacerations to right hand,N,Y,Male,55,Surfing,USA,Florida,2009,16-May-09,10h16,Unprovoked,"S. Petersohn, GSAF"
+2009.05.16.b,Blacktip Shark,lacerations to right foot,N,Y,Male,49,Surfing,USA,Florida,2009,16-May-09,10h27,Unprovoked,"S. Petersohn, GSAF"
+2009.05.17,Blacktip Shark,lacerations to left leg and foot,N,Y,Male,31,Surfing,USA,Florida,2009,17-May-09,09h35,Unprovoked,"S. Petersohn, GSAF"
+2009.06.01,White Shark,fatal,Y,Y,Female,50,Snorkeling,Egypt,St. Johns Reef,2009,01-Jun-09,Morning,Unprovoked,"A. Hamada; E.Ritter, GSAF"
+2009.06.02.a,White Shark,3 cm laceration to shoulder,N,Y,Male,NA,Scuba Diving,Egypt,St. Johns Reef,2009,02-Jun-09,NA,Unprovoked,"E. Ritter, GSAF"
+2009.06.02.b,White Shark,lacerations to left hand,N,Y,Male,NA,Scuba Diving,Egypt,St. Johns Reef,2009,02-Jun-09,NA,Unprovoked,"E. Ritter, GSAF"
+2009.06.14.R,White Shark,hand bitten by hooked shark provoked incident,N,N,Male,NA,Fishing For Sharks,Vietnam,Na,2009,Reported 14-Jun-2009,NA,Provoked,"Tin Tuc online, 6/14/2009"
+2009.06.27,Bronze Whaler Shark,2-inch laceration to upper left arm,N,Y,Male,52,Surfing,Australia,New South Wales,2009,27-Jun-09,08h45,Unprovoked,"Brisbane Times, 6/28/2009"
+2009.07.04,Nurse Shark,thigh injured by hooked shark provoked incident,N,N,Female,43,Swimming,USA,Florida,2009,04-Jul-09,15j45,Provoked,"Miami Herald, 7//4/2009"
+2009.07.11.b,Caribbean Reef Shark,leg bitten by shark that had been shot in the head by another diver provoked incident,N,N,Male,NA,Spearfishing,Bahamas,Na,2009,11-Jul-09,NA,Provoked,"Fox News, 7/14/2009"
+2009.07.31,Bull Shark,lacerations to calf,N,Y,Male,14,Spearfishing,Bahamas,Abaco Islands,2009,31-Jul-09,NA,Unprovoked,WPTV.com
+2009.08.01,Bull Shark,right ankle and foot bitten,N,Y,Male,56,Wade Fishing,USA,Louisiana,2009,01-Aug-09,10h00,Unprovoked,Clarion Ledger
+2009.08.06,Tiger Shark,"no injury, surfboard bitten",N,Y,Male,NA,Surfing,USA,Hawaii,2009,06-Aug-09,08h45,Unprovoked,"Big Island Weekly, 8/19/2009"
+2009.08.11,White Shark,"no injury, shark bit bodyboard",N,Y,Male,NA,Body Boarding,South Africa,Kwazulu-Natal,2009,11-Aug-09,Lunchtime,Unprovoked,Zululand Observer
+2009.08.25,White Shark,puncture wounds to left foot and calf,N,Y,Female,22,Swimming,USA,California,2009,25-Aug-09,16h30,Unprovoked,"R. Collier, GSAF"
+2009.08.29,White Shark,fatal,Y,Y,Male,25,Surfing,South Africa,Western Cape Province,2009,29-Aug-09,15h30,Unprovoked,"Cape Argus, 8/30/2009, p.1"
+2009.09.26,Bull Shark,laceration to right foot,N,Y,Male,NA,Swimming,USA,Florida,2009,26-Sep-09,17h30,Unprovoked,keysnet.com
+2009.10.14.R,Bull Shark,severe lacerations to lower right leg,N,Y,Male,23,Diving,Australia,Western Australia,2009,Reported 14-Oct-2009,NA,Unprovoked,"BBC News, 10/19/2009"
+2009.10.29.R,Zambesi Shark,left ankle and foot bitten,N,Y,Male,NA,Spearfishing,Mozambique,Inhambane Province,2009,Reported 29-Oct-2009,NA,Unprovoked,R. Allen; J. Little
+2009.10.30,White Shark,"no injury, shark bit kayak",N,Y,Male,27,Kayaking,Australia,Victoria,2009,30-Oct-09,Morning,Unprovoked,"The Age, 10/31/2009"
+2009.12.06,Tiger Shark,lacerations and puncture wounds to right calf and ankle when diver accidentally backed into the shark  provoked incident,N,N,Male,58,Diving,USA,New Jersey,2009,05-Dec-09,13h00,Provoked,"R. Large; Philadelphia Daily News, 4/22/2010"
+2009.12.12,White Shark,no injury to occupants; shark bit steering oar,N,Y,NA,NA,Rowing,Australia,New South Wales,2009,12-Dec-09,07h30,Boat,"Herald Sun, 12/13/2009"
+2009.12.16,White Shark,fatal,Y,Y,Male,24,Swimming To Shore From Capsized Kayak,New Zealand,South Island,2009,16-Dec-09,NA,Unprovoked,"R.D. Weeks, GSAF"
+2009.12.20.a,Bull Shark,lacerations to hand and forearm,N,Y,Male,18,Spearfishing,Australia,Queensland,2009,20-Dec-09,07h30,Unprovoked,"Brisbane Times, 12/20/2009"
+2009.12.22,Zambesi Shark,multiple lacerations to right torso and arm. defense wounds on  hands,N,Y,Male,27,Swimming,Mozambique,Maputo Province,2009,22-Dec-09,16h30,Unprovoked,"Beeld, 12/29/2009"
+2010.01.09.d,White Shark,2 sets of minor lacerations below her right knee,N,Y,Female,9,Snorkeling,Australia,Torres Strait,2010,09-Jan-10,NA,Unprovoked,"Courier-Mail, 1/10/2009"
+2010.01.12,White Shark,fatal,Y,Y,Male,37,Standing,South Africa,Western Province,2010,12-Jan-10,15h15,Unprovoked,"L. Cohen, Times Live, 1/12/2010"
+2010.01.30,Hammerhead Shark,foot bitten,N,Y,Male,29,Surfing,Brazil,Rio Grande Do Sul,2010,31-Jan-10,NA,Unprovoked,"C. Eksander, GSAF"
+2010.02.06.b,White Shark,"no injury, shark and board collided",N,Y,Male,18,Body Boarding,Australia,New South Wales,2010,06-Feb-10,15h30,Unprovoked,"K. Matthews, Lismore Northern Star, 2/10/2010"
+2010.02.19,Blue Shark,bruised but otherwise unhurt,N,Y,Male,NA,Swimming,New Zealand,South Island,2010,190Feb-2010,Night,Unprovoked,"Nelson Mail, 2/23/2010"
+2010.04.04,White Shark,lacerations to left ankle and foot,N,Y,Male,24,Swimming / Treading Water,Egypt,Sinai Peninsula,2010,04-Apr-10,14h00,Unprovoked,"J. Elliott; Blackpool Gazette, 4/16/2010"
+2010.04.28,Lemon Shark,arm bitten provoked incident ,N,N,Male,29,Measuring Sharks,USA,Florida,2010,28-Apr-10,Afternoon,Provoked,"D. Guevara, WSVN-TV, 4/28/2010"
+2010.05.30,Lemon Shark,laceration to left calf by hooked shark provoked incident,N,N,Male,49,Fishing,USA,Florida,2010,30-May-10,08h45,Provoked,tbo.com
+2010.06.27,Bull Shark,lacerations to right foot,N,Y,Male,20,Surfing,USA,Texas,2010,27-Jun-10,NA,Unprovoked,KMBC
+2010.07.03,Blue Shark,laceration to right bicep by hooked shark provoked incident,N,N,Male,20,Fishing,USA,New York,2010,03-Jul-10,12h30,Provoked,NBC
+2010.07.11,Nurse Shark,small laceration to forearm from netted shark  provoked incident,N,N,Male,NA,Fishing,USA,Florida,2010,11-Jul-10,NA,Provoked,"News 7, 7/13/2010"
+2010.07.17.b,Tiger Shark,lacerations to right forearm,N,Y,Female,13,Swimming,USA,North Carolina,2010,17-Jul-10,13h30,Unprovoked,"C. Creswell, GSAF"
+2010.07.19,Blacktip Shark,minor lacerations to left calf,N,Y,Male,10,Swimming,USA,South Carolina,2010,19-Jul-10,10h35,Unprovoked,"C. Creswell, GSAF"
+2010.08.02.b,White Shark,"no injury, kayak bitten",N,Y,Male,NA,Kayaking,USA,California,2010,02-Aug-10,12h40,Unprovoked,"R. Collier, GSAF"
+2010.08.14,White Shark,"no injury, kayak bitten",N,Y,Male,45,Kayak Fishing,USA,California,2010,14-Aug-10,NA,Unprovoked,"Mercury News, 8/15/2010"
+2010.08.17,White Shark,fatal,Y,Y,Male,31,Surfing,Australia,Western Australia,2010,17-Aug-10,08h05,Unprovoked,"The Australian, 8/17/2010"
+2010.09.21,White Shark,fatal,Y,Y,Male,29,Swimming,South Africa,Western Cape Province,2010,21-Sep-10,NA,Unprovoked,"Cape Argus, 9/25/2010"
+2010.09.27,White Shark,"no injury, surfboard rammed",N,Y,Male,29,Surfing,USA,Oregon,2010,27-Sep-10,16h00,Unprovoked,R. Collier
+2010.10.02.a,Lemon Shark,bitten between left ankle and knee,N,Y,Female,NA,Surfing,Bahamas,Abaco Islands,2010,02-Oct-10,15h00,Unprovoked,"The Tribune, 10/4/2010"
+2010.10.02.b,Lemon Shark,calf bitten,N,Y,Male,NA,Snorkeling,Bahamas,Exuma Islands,2010,02-Oct-10,NA,Unprovoked,Sharksurvivors.com
+2010.10.09,Bull Shark,foot bitten,N,Y,Male,22,Surfing,Australia,New South Wales,2010,09-Oct-10,13h30,Unprovoked,"The Coffs Coast Advocate, 10/16/2010"
+2010.10.22,White Shark,fatal,Y,Y,Male,19,Body Boarding,USA,California,2010,22-Oct-10,08h50,Unprovoked,R. Collier
+2010.10.30,White Shark,torso and left buttock bitten,N,Y,Female,20,Snorkeling,Australia,Western Australia,2010,30-Oct-10,12h30,Unprovoked,"Perth Now, 10/30/2010"
+2010.11.12.R,White Shark,no injury to occupant. shark rammed bottom of the boat,N,Y,Male,NA,Fishing,Australia,Western Australia,2010,Reported 12-Nov-2010,Night,Boat,R. Hidding
+2010.11.30.a,White Shark,foot and arm bitten,N,Y,Female,48,Snorkeling,Egypt,South Sinai Peninsula,2010,30-Nov-10,14h40,Unprovoked,"M. Levine, R. Collier, E. Ritter, M. Fouda, et al"
+2010.11.30.b,White Shark,"foot severed, right forearm severed, lacerations to left hand (defense wounds)",N,Y,Female,70,Snorkeling,Egypt,South Sinai Peninsula,2010,30-Nov-10,14h55,Unprovoked,"M. Levine, R. Collier, E. Ritter, M. Fouda, et al"
+2010.12.05,White Shark,fatal,Y,Y,Female,70,Snorkeling,Egypt,South Sinai Peninsula,2010,05-Dec-10,12h00,Unprovoked,"M. Levine, R. Collier, E. Ritter, M. Fouda, et al"
+2011.01.03,White Shark,"no injury, shark nudged boat and bit propeller",N,Y,NA,NA,Fishing,Australia,Western Australia,2011,03-Jan-11,12h00,Boat,"S. Gordon, Sky News, 1/4/2011"
+2011.01.26,Caribbean Reef Shark,arm bitten ,N,Y,Male,55,Scuba Diving,Bahamas,West End,2011,26-Jan-11,15h00,Unprovoked,J. Abernethy
+2011.02.17,White Shark,fatal,Y,Y,Male,49,Diving For Abalone,Australia,South Australia,2011,17-Feb-11,18h20,Unprovoked,"T. Peake, GSAF"
+2011.02.28.R,Bull Shark,lacerations to right hand by hooked shark provoked incident,N,N,Male,36,Fishing,Australia,Queensland,2011,Reported 28-Feb-2011,10h45,Provoked,"C. Eksander, GSAF"
+2011.03.23,Bull Shark,severe injury to left forearm,N,Y,Male,48,Surfing,Australia,New South Wales,2011,23-Mar-11,17h45,Unprovoked,"Nine News, 3/24/2011"
+2011.03.24,Bull Shark,lower leg and foot bitten,N,Y,Female,NA,Swimming,Mexico,Quintana Roo,2011,24-Mar-11,NA,Unprovoked,"Canadian press, 3/25/2011"
+2011.03.29.R,Blacktip Shark,minor laceration to shoulder from captive shark provoked incident,N,N,Male,NA,"Standing, Holding Shark Pup",USA,Texas,2011,Reported 29-Mar-2011,NA,Provoked,"You Tube, Baby Blacktip Shark Attack - How NOT to hold a shark."
+2011.04.12,Bull Shark,lacerations to forearm,N,Y,Male,NA,Surfing,Indonesia,Bali,2011,13-Apr-11,Morning,Unprovoked,"A.Brenneka, SharkAttackSurvivors.com"
+2011.04.16,Bronze Whaler Shark,puncture to left hand,N,Y,Male,41,Surfing,New Zealand,South Island,2011,16-Apr-11,Afternoon,Unprovoked,"R.D. Weeks, GSAF"
+2011.04.26,Bull Shark,calf bitten,N,Y,Male,32,Spearfishing,USA,Florida,2011,26-Apr-11,NA,Unprovoked,"J. Wigham III, Palm Beach Post, 4/27/2011"
+2011.05.21.b,Zambesi Shark,"thigh bitten, fatal",Y,Y,Male,28,Spearfishing,South Africa,Kwazulu-Natal,2011,21-May-11,Midday,Unprovoked,"News 24, 5/21/2011"
+2011.05.21.a,Tiger Shark,"thigh bitten, fatal",Y,Y,Male,15,Kite Boarding,New Caledonia,North Province,2011,21-May-11,11h00,Unprovoked,"Radio New Zealand & Les Nouvelles Caledoniennes, 5/23/2011"
+2011.05.22,Tiger Shark,"no injury, board bitten",N,Y,Female,NA,Paddle Boarding,USA,Hawaii,2011,22-May-11,12h00,Unprovoked,"Hawaii News Now, 5/22/2011"
+2011.05.25,Tiger Shark,"no injury, board bitten",N,Y,Female,NA,Surfing,USA,Hawaii,2011,25-May-11,13h15,Unprovoked,"Star Advertiser, 5/26/2011"
+2011.05.29,White Shark,"no injury, board bumped by shark",N,Y,Male,33,Surfing,South Africa,Western Cape Province,2011,29-May-11,NA,Unprovoked,"The George Herald, 5/30/2011"
+2011.06.01,Blacktip Shark,laceration to dorsum of right foot,N,Y,Female,NA,Snorkeling,Malaysia,Kedah,2011,01-Jun-11,NA,Unprovoked,meglognature.blogspot.com
+2011.06.12,Blacktip Shark,lacerations to right calf,N,Y,Male,28,Scuba Diving,USA,Florida,2011,12-Jun-11,14h30,Unprovoked,"WPTV, 6/13/2011"
+2011.06.14.R,White Shark,"no injury, shark slammed into boat",N,Y,NA,NA,Fishing,United Kingdom,Cornwall,2011,Reported 14-Jun-2011,NA,Boat,"G. Box-Turnbull, Daily Mirror, 6/14/2011"
+2011.06.24,White Shark,shark leapt onto surfboard; surfer uninjured ,N,Y,Male,NA,Surfing,USA,California,2011,24-Jun-11,13h30,Unprovoked,R. Collier
+2011.06.26,Bull Shark,ankle bitten,N,Y,Female,10,Playing In The Surf,USA,North Carolina,2011,26-Jun-08,Afternoon,Unprovoked,C. Creswell & G. Hubbell
+2011.07.22,White Shark,upper left arm and right leg bitten,N,Y,Male,29,Surfing,South Africa,Eastern Cape Province,2011,22-Jul-11,10h00,Unprovoked,"Zigzag, 7/22/2011"
+2011.08.16.a,Bull Shark,fatal,Y,Y,Male,30,Swimming Or Snorkeling,Seychelles,Praslin,2011,16-Aug-11,16h30,Unprovoked,"P. Cahalan, The Independent, 8/17/2011"
+2011.08.16.c,Grey Shark,"no injury, board bitten",N,Y,Male,32,Surfing,French Polynesia,Society Islands,2011,16-Aug-11,15h30,Unprovoked,Sharksurvivors.com
+2011.08.17.c.,Tiger Shark,lacerations to foot,N,Y,Female,NA,Wading,USA,North Carolina,2011,17-Aug-11,17h00,Unprovoked,C. Creswell
+2011.08.23,White Shark,fatal,Y,Y,Male,49,Surfing,South Africa,Western Cape Province,2011,23-Aug-11,09h11,Unprovoked,"News24, 8/23/2011"
+2011.09.04.a,White Shark,fatal,Y,Y,Male,21,Body Boarding,Australia,Western Australia,2011,04-Sep-11,13h26,Unprovoked,"Sunshine Coast Daily, 9/5/2011"
+2011.09.11.a,Tiger Shark,lacerations to right leg,N,Y,Male,30,Kite Surfing,Papua New Guinea,Central Province,2011,11-Sep-11,Afternoon,Unprovoked,"Sydney Morning Herald, 9/12/2011"
+2011.09.24.b,Bull Shark,laceration to left thigh,N,Y,Male,21,Spearfishing,USA,Florida,2011,24-Sep-11,15h00,Unprovoked,"Herald Tribune, 9/24/2011"
+2011.09.28.a,White Shark,"right leg severed, left leg lacerated",N,Y,Male,43,Swimming,South Africa,Western Cape Province,2011,28-Sep-11,12h25,Unprovoked,"News 24, 9/29/2011"
+2011.10.20,White Shark,"no injury, shark bit surfboard",N,Y,Male,41,Surfing,USA,Oregon,2011,20-Oct-11,NA,Unprovoked,R. Collier
+2011.10.22,White Shark,fatal,Y,Y,Male,32,Diving,Australia,Western Australia,2011,22-Oct-11,13h25,Unprovoked,"Sky News, 10/22/2011"
+2011.10.28.,Raggedtooth Shark,arm bitten by captive shark provoked incident,N,N,NA,NA,Diving,South Africa,Kwazulu-Natal,2011,  29-Oct-2011,NA,Provoked,"Durban Radio, 10/29/2011"
+2011.10.29.,White Shark,"lacerations to right wrist, foream and neck",N,Y,Male,27,Surfing,USA,California,2011,  29-Oct-2011,NA,Unprovoked,R. Collier
+2011.11.22,White Shark,"no injury, kayak bitten",N,Y,Male,NA,Kayaking,USA,California,2011,22-Nov-11,NA,Unprovoked,R. Collier
+2011.12.11,White Shark,5 puncture wounds to thigh,N,Y,Male,51,Surfing,Australia,New South Wales,2011,11-Dec-11,05h45,Unprovoked,"Daily Examiner, 12/11/2011"
+2012.01.02,Tiger Shark,"no injury, punctures to swim fin",N,Y,Male,34,Spearfishing,Australia,Queensland,2012,02-Jan-12,09h00,Unprovoked,"A. Brenneka, goldcoast.com.au, 1/3/2012"
+2012.01.13,White Shark,"no injury, surfboard damaged",N,Y,Male,53,Surfing,USA,Oregon,2012,13-Jan-12,NA,Unprovoked,R. Collier
+2012.01.15,Bull Shark,fatal,Y,Y,Male,25,Swimming,South Africa,Eastern Cape Province,2012,15-Jan-12,15h40,Unprovoked,"News 24, 1/15/2012; R. Bonorchis, Bloomberg News, 1/16/2012"
+2012.01.18.a,White Shark,lacerations to thigh,N,Y,Male,44,Surfing,Australia,New South Wales,2012,18-Jan-12,16h45,Unprovoked,V. Peddemors
+2012.01.18.b,Blue Shark,bitten on left thigh     provoked accident,N,N,Male,24,Fishing,Taiwan,Taitung ,2012,18-Jan-12,NA,Provoked,Taiwan television
+2012.01.19,Tiger Shark,lacerations to right forearm,N,Y,Male,26,Snorkeling,Australia,Western Australia,2012,19-Jan-12,Afternoon,Unprovoked,"Sydney Morning Herald, 1/20/2012"
+2012.01.22.R,Tiger Shark,"no injury, shark grabbed his camera",N,Y,Male,NA,"Diving, Photographing Sharks",Bahamas,Na,2012,Reported 22-Jan-2012,NA,Unprovoked,"Evening Chronicle, 1/23/2012"
+2012.02.20,White Shark,"no injury to occupants, boat damaged",N,Y,NA,NA,Fishing,South Africa,Western Cape Province,2012,20-Feb-12,NA,Boat,"Cape Argus, 2/21/2012"
+2012.02.25,Nurse Shark,laceration to left foot,N,Y,Male,NA,Fishing,Australia,New South Wales,2012,25-Feb-12,16h00,Unprovoked,"B. Smee, Newcastle Herald, 2/27/2012"
+2012.03.06.a,Nurse Shark,superficial lacerations to right side of face provoked accident,N,N,Female,34,"Diving, Feeding Sharks",Australia,Victoria,2012,06-Mar-12,11h30,Provoked,"The Age, 3/6/2012"
+2012.03.15,Bull Shark,left forearm bitten,N,Y,Male,61,Surfing,USA,Florida,2012,15-Mar-12,15h50,Unprovoked,"WPBF.com, 3/16/2012"
+2012.03.20,Bull Shark,lacerations to left calf,N,Y,Male,20,Surfing,Australia,Queensland,2012,20-Mar-12,17h00,Unprovoked,"Courier Mail, 3/20/2012"
+2012.03.22,White Shark,"no injury to occupants. shark bit propelle, rope and crayfish float",N,Y,NA,NA,Crayfishing,Australia,Western Australia,2012,22-Mar-12,05h50,Boat,"Sydney Morning Herald, 3/22/2012"
+2012.03.31,White Shark,fatal,Y,Y,Male,33,Scuba Diving,Australia,Western Australia,2012,31-Mar-12,09h30,Unprovoked,"Associated Press, 3/31/2012"
+2012.04.03,Tiger Shark,lacerations to left foot,N,Y,Male,28,Surfing,USA,Hawaii,2012,03-Apr-12,12h38,Unprovoked,"Hawaii News Now, 4/3/2012"
+2012.04.11,White Shark,minor wound to his thigh when shark bit kayak,N,Y,Male,27,Kayaking,Australia,South Australia,2012,11-Apr-12,NA,Unprovoked,"Adelaide Now, 4/12/2012"
+2012.04.19.a,White Shark,fatal,Y,Y,Male,20,Body Boarding,South Africa,Western Cape Province,2012,19-Apr-12,12h30,Unprovoked,"News 24, 4/19/2012"
+2012.05.06,White Shark,"no injury, shark bit paddleboard",N,Y,Female,15,Paddle Boarding,USA,California,2012,06-May-12,07h20,Unprovoked,"R. Collier, A. Brenneka"
+2012.05.12,White Shark,"no injury, kayaker fell in the water when kayak bitten by a shark",N,Y,Male,30,Kayaking / Fishing,USA,California,2012,12-May-12,14h30,Unprovoked,R. Collier
+2012.05.20,Tiger Shark,"no injury, teethmarks in kayak",N,Y,Male,NA,Kayak Fishing,USA,Hawaii,2012,20-May-12,Morning,Unprovoked,"Hawaii Now, 5/25/2012"
+2012.05.29,Bull Shark,left hand severed,N,Y,Male,46,Free Diving / Spearfishing,Mexico,Guerrero,2012,29-May-12,09h00,Unprovoked,"El Sol ee Morelia, 5/30/2012"
+2012.06.03,White Shark,"no injury, ski bitten",N,Y,Male,30,Surf Skiing ,Australia,New South Wales,2012,03-Jun-12,14h30,Unprovoked,"Newcastle Herald, 6/6/2012"
+2012.06.10,Blue Shark,lower left leg injured provoked accident,N,N,Male,57,Attempting To Rescue An Injured And Beached Shark,Italy,Sardinia,2012,10-Jun-12,Morning,Provoked,"D. Puddo, 6/11/2012"
+2012.06.14.a,Blacktip Shark,laceration to right foot,N,Y,Male,16,Swimming,USA,South Carolina,2012,14-Jun-12,13h20,Unprovoked,C. Creswell
+2012.06.14.b,Blacktip Shark,calf bitten,N,Y,Male,NA,Swimming,USA,South Carolina,2012,14-Jun-12,Afternoon,Unprovoked,C. Creswell
+2012.06.14.d,Blacktip Shark,foot and hand bitten,N,Y,Female,18,Swimming,USA,South Carolina,2012,14-Jun-12,Afternoon,Unprovoked,C. Creswell
+2012.06.15,Nurse Shark,superficial injury to calf by hooked shark provoked accident,N,N,Male,23,Fishing,USA,Florida,2012,15-Jun-12,14h20,Provoked,WSVN-TV
+2012.06.26.c,Bull Shark,thigh bitten,N,Y,Male,6,Swimming,USA,Florida,2012,26-Jun-12,19h00,Unprovoked,"WPTV.com, 6/26/2012"
+2012.07.14,White Shark,fatal,Y,Y,Male,24,Surfing,Australia,Western Australia,2012,14-Jul-12,09h05,Unprovoked,"WA News, 7/15/2012"
+2012.07.30.a,White Shark,lacerations to both legs below the knees,N,Y,Male,50,Body Surfing,USA,Massachusetts,2012,30-Jul-12,15h30,Unprovoked,"A. Costellano, ABC News, 7/31/202"
+2012.07.31.a,White Shark,lacerations to torso and arm,N,Y,Male,48,Surfing,Australia,South Australia,2012,31-Jul-12,14h40,Unprovoked,"T. Conlin, Adelaide Now, 7/31/2012"
+2012.08.04,Lemon Shark,shoulder bitten,N,Y,Male,NA,Spearfishing,French Polynesia,Tuamotus,2012,04-Aug-12,NA,Unprovoked,"A. Brenneka, Shark Attack Survivors; Les Nouvelles calédoniennes, 9/6/2012"
+2012.08.05,Bull Shark,right hand and foot severed,N,Y,Male,39,Surfing,Reunion,Saint Leu,2012,06-Aug-12,17h17,Unprovoked,"Linfo.re, 8/5/2012"
+2012.08.09,Lemon Shark,lacerations to little finger of left hand,N,Y,Male,56,Free Diving ,USA,Florida,2012,08-Aug-12,1600,Unprovoked,D. Lowe
+2012.09.02.b,Tiger Shark,minor laceration to hand  provoked incident,N,N,NA,NA,Spearfishing,USA,Hawaii,2012,02-Sep-12,12h00,Provoked,HawaiiNow.com
+2012.09.10,Bull Shark,injuries to thighs and buttocks,N,Y,Female,29,Swimming,Tonga,Vava'U,2012,10-Sep-12,NA,Unprovoked,"Northern Star, 9/13/2012"
+2012.10.23,White Shark,fatal,Y,Y,Male,39,Surfing,USA,California,2012,23-Oct-12,11h00,Unprovoked,R. Collier
+2012.10.27,Tiger Shark,"puncture wounds to thigh, defense wounds  to hand",N,Y,Female,51,Swimming,USA,Hawaii,2012,27-Oct-12,15h56,Unprovoked,"MauiNow.com, 10/28/2012"
+2012.10.30,White Shark,multiple lacerations to torso,N,Y,Male,25,Surfing,USA,California,2012,30-Oct-12,12h00,Unprovoked,"R. Collier; Redwood Times, 11/5/2012"
+2012.11.04.a,Tiger Shark,"no injury, surfboard bitten",N,Y,Male,43,Surfing,USA,Hawaii,2012,04-Nov-12,08h10,Unprovoked,Kaua'i Police Department
+2012.11.04.b,Tiger Shark,right lower leg and foot bitten,N,Y,Male,30,Diving,USA,Hawaii,2012,04-Nov-12,08h30,Unprovoked,"Hawaii News Now, 11/5/2012"
+2012.11.30,Tiger Shark,lacerations to thigh and lower left leg,N,Y,Male,61,Snorkeling,USA,Hawaii,2012,30-Nov-12,09h40,Unprovoked,"KHON2, 11/30/2012"
+2012.12.02,Tiger Shark,minor puncture wounds to knee,N,Y,Male,31,Spearfishing,Australia,New South Wales,2012,02-Dec-12,16h45,Unprovoked,"ABC News, 12/2/2012"
+2012.12.19,Tiger Shark,no injury,N,Y,Male,32,Surfing,Australia,Western Australia,2012,19-Dec-12,830,Unprovoked,"The West Ausralian, 12/20/2012"
+2012.12.25,Tiger Shark,fatal,Y,Y,Male,20,Swimming,South Africa,Eastern Cape Province,2012,25-Dec-12,NA,Unprovoked,"SAPA, 12/27/2012"
+2012.12.28,Bull Shark,lacerations to thigh and hand,N,Y,Male,29,Paddle Boarding,Australia,New South Wales,2012,28-Dec-12,10h45,Unprovoked,"Port Macqquarie News, 12/28/2012"
+2013.01.13,Bronze Whaler Shark,minor cut on finger,N,Y,Male,NA,Spearfishing,New Zealand,Mercury Islands,2013,13-Jan-13,NA,Unprovoked,"Bay of Plenty Times, 1/18/2013"
+2013.01.16,Tiger Shark,left forearm bitten ,N,Y,Male,43,Surfing,USA,Hawaii,2013,16-Jan-13,16h30,Unprovoked,"Hawaii 24/7, 1/16/2013"
+2013.01.26,White Shark,"no injury to occupants, shark bit propeller",N,Y,Male,NA,Fishing,Australia,Victoria,2013,26-Jan-13,NA,Boat,"7NewsMelbourne, 1/28/2013"
+2013.02.09,Lemon Shark,lacerations to right arm and thigh,N,Y,Male,48,Scuba Diving,French Polynesia,Society Islands,2013,09-Feb-13,09h00 - 09h30,Unprovoked,"A. Brenneka, Shark Attack Survivors;   Les Nouvelles Caledoniennes, 2/21/2013"
+2013.02.10,Blacktip Shark,lacerations to right hand,N,Y,Male,16,Surfing,USA,Florida,2013,10-Feb-13,14h00,Unprovoked,"Palm Beach Post, 2/12/2013"
+2013.02.27,White Shark,fatal,Y,Y,Male,46,Swimming,New Zealand,North Island,2013,27-Feb-13,13h24,Unprovoked,"New Zealand Herald, 2/27/2013"
+2013.03.10.b,Bronze Whaler Shark,laceration to left hand,N,Y,Male,28,Spearfishing,Australia,Western Australia,2013,10-Mar-13,09h00,Unprovoked,"The West Australian, 3/13/2013"
+2013.03.12,Tiger Shark,fatal,Y,Y,Male,68,Spearfishing,Jamaica,St. Catherine,2013,12-Mar-13,09h00,Unprovoked,"R. Turner & A. Williams, Jamaica Star, 3/13/2013 "
+2013.03.16.b,Raggedtooth Shark,lacerations to left calf and heel from hooked shark provoked incident,N,N,Male,30,Fishing - 'Tag And Release',South Africa,Western Cape Province,2013,16-Mar-13,09h00,Provoked,National Sea Rescue Institute
+2013.03.21.R,Nurse Shark,toe injured,N,Y,Female,NA,Snorkeling,Belize,Na,2013,Reported 21-Mar-2013,NA,Unprovoked,"H. Fairchild, The Lantern, 3/21/2013"
+2013.04.10,Blacktip Shark,"underside of board, fins and, harness were damaged, and left  hip, thigh and buttock sustained puncture wounds",N,Y,Male,53,Kite Boarding,French Polynesia,Tuamotus,2013,10-Apr-13,12h00,Unprovoked,N. Eitel
+2013.04.13.b,Bull Shark,minor lacerations to right hand,N,Y,Male,21,Surfing,USA,Florida,2013,13-Apr-13,13h30,Unprovoked,"News13, 4/14/2013"
+2013.04.14,Blue Shark,"""light scratch on hand/wrist area""",N,Y,Male,NA,Free Diving,South Africa,Western Cape Province,2013,14-Apr-13,NA,Unprovoked,"Cape Argus, 4/16/2013"
+2013.04.21,Nurse Shark,puncture wounds and lacerations to both legs,N,Y,Male,51,Fishing,Australia,New South Wales,2013,21-Apr-13,14h00,Unprovoked,"7NewsSydney, 4/22/2013"
+2013.04.24,Tiger Shark,avulsion injury  to lower right leg,N,Y,Female,34,Swimming,Mexico,Quintana Roo,2013,24-Apr-13,13h40,Unprovoked,"I. Carchia; A. Brenneka, Shark Attack Survivors;  Novedades 4/24/2013"
+2013.05.08.a,Bull Shark,fatal,Y,Y,Male,36,Body Boarding,Reunion,Saint-Gilles,2013,08-May-13,08h20,Unprovoked,A. Morel
+2013.06.06.b,Lemon Shark,left hand bitten as he attempted to remove hook from shark provoked incident,N,N,Male,58,Fishing For Sharks,USA,Florida,2013,06-Jun-13,NA,Provoked,"CBS Miami, 6/6/2013"
+2013.06.18,Tiger Shark,right thigh and calf bitten,N,Y,Male,28,Swimming,USA,Hawaii,2013,18-Jun-13,12h50,Unprovoked,"Hawaii News Now, 6/18/2013"
+2013.06.25.b,Bull Shark,lacerations to left foot,N,Y,Male,NA,Swimming,USA,Florida,2013,25-Jun-13,NA,Unprovoked,"Action News, 7/25/2013"
+2013.06.25.c,White Shark,"no injury, kayak scratched",N,Y,Male,NA,Kayaking / Fishing,USA,California,2013,25-Jun-13,15h30,Unprovoked,R. Collier
+2013.07.28.b,Nurse Shark,bitten on left hand,N,Y,Male,64,Cleaning Fish,Bahamas,Exuma Islands,2013,28-Jul-13,16h45,Unprovoked,"Tribune 242, 7/28/2013"
+2013.07.29.a,Tiger Shark,lower leg bitten,N,Y,Male,18,Surfing,USA,Hawaii,2013,  29-Jul-2013,14h10,Unprovoked,"Hawaii News Now, 7/29/2013"
+2013.08.05,Bull Shark,minor injury to foot and shin,N,Y,Male,17,Fishing,USA,Florida,2013, 05-Aug-2013,15h00,Unprovoked,"NBC2 News, 8/5/2013"
+2013.08.08.R,Blacktip Shark,"unknown, but survived",N,Y,Male,NA,Attempting To Free The Shark,South Africa,Na,2013,Reported 08-Aug-2013,NA,Unprovoked,"WebProNews/Science, 8/8/2013"
+2013.08.11,Bull Shark,"no injury, shark became entangled in his surfboard leash",N,Y,Male,10,Surfing,USA,South Carolina,2013,11-Aug-13,17h30,Unprovoked,"Post and Courier, 8/11/2013"
+2013.08.14,Tiger Shark,fatal,Y,Y,Female,20,Snorkeling,USA,Hawaii,2013, 14-Aug-2013,16h30,Unprovoked,"KHON2, 8/15/2013"
+2013.08.17,White Shark,"no injury, shark bumped surfboard",N,Y,Female,NA,Surfing,USA,California,2013,17-Aug-13,12h40,Unprovoked,R. Collier
+2013.08.31.b,Blacktip Shark,lower left leg bitten,N,Y,Male,NA,Spearfishing,Bahamas,Na,2013,31-Aug-13,NA,Unprovoked,
+2013.09.01.c,Nurse Shark,arm bitten by captive shark provoked incident,N,N,Male,3,Na,USA,Florida,2013, 01-Sep-2013,NA,Provoked,"KeyNews, 8/4/2013"
+2013.09.14,Bull Shark,lacerations to right foot,N,Y,Male,21,Swimming,USA,Florida,2013, 14-Sep-2013,15h30,Unprovoked,"E. Ritter, GSAF"
+2013.10.05,Bull Shark,lacerations to  right forearm,N,Y,Male,12,Wading,USA,Florida,2013,10-Oct-13,15h30,Unprovoked,"Monroe County Advocate, 10/9/2013"
+2013.10.05,White Shark,laceration to thigh,N,Y,Male,45,Surfing,USA,California,2013,06-Oct-13,08h45,Unprovoked,"R. Collier, GSAF"
+2013.10.08,White Shark,"injuries to torso, head and face",N,Y,Male,55,Diving For Abalone,Australia,Western Australia,2013,08-Oct-13,10h30,Unprovoked,"Fox News, 10/9/2013"
+2013.10.11,White Shark,fatal,Y,Y,Male,74,Swimming / Snorkeling,South Africa,Eastern Cape Province,2013,11-Oct-13,11h30,Unprovoked,"JBayNews.com, 10/11/2013"
+2013.10.19,Nurse Shark,bitten on left calf and foot,N,Y,Male,6,Wading,USA,Florida,2013,19-Oct-13,Late afternoon,Unprovoked,K & D Hamby 
+2013.10.20,Tiger Shark,"no injury, shark bit surfboard",N,Y,Male,25,Surfing,USA,Hawaii,2013,20-Oct-13,11h00,Unprovoked,"B. Buley, The Garden Island, 10/22/2013"
+2013.10.23,White Shark,"3"" laceration to left hip",N,Y,Male,45,Diving ,USA,Hawaii,2013,23-Oct-13,15h55,Unprovoked,"Maui News, 10/23/2013"
+2013.10.26.a,White Shark,"no injury, swim fin shredded",N,Y,Male,NA,Diving For Crayfish,Australia,Western Australia,2013,26-Oct-13,10h55,Unprovoked,"Sky News, 10/26/2013"
+2013.10.26.b,Bull Shark,right leg severed,N,Y,Male,24,Body Boarding,Reunion,DÉtang-Salé,2013,26-Oct-13,16h30,Unprovoked,"Global Post, 10/26/2013"
+2013.10.28,Blacktip Shark,lacerations to right arm,N,Y,Female,60,Snorkeling,Australia,Western Australia,2013,28-Oct-13,Afternoon,Unprovoked,"AAP, 10/28/2013"
+2013.10.31,Tiger Shark,severe bite to right calf and anklel,N,Y,Male,46,Kiteboarding,USA,Hawaii,2013,31-Oct-13,15h19,Unprovoked,"Maui TV, 10/31/2013"
+2013.11.12,White Shark,"no injury, board bumped by shark",N,Y,Male,NA,Surfing,Australia,Western Australia,2013,12-Nov-13,15h00,Unprovoked,"West Australian, 11/13/2013"
+2013.11.22,White Shark,"no injury, board bitten",N,Y,Male,25,Surfing,USA,Oregon,2013,22-Nov-13,10h30,Unprovoked,R. Collier
+2013.11.23.a,White Shark,fatal,Y,Y,Male,35,Surfing,Australia,Western Australia,2013,23-Nov-13,09h00,Unprovoked,"J. Baily; Perth Now, 11/23/2013"
+2013.11.30,Tiger Shark,fatal,Y,Y,Male,19,Body Boarding,Australia,New South Wales,2013,30-Nov-13,14h00,Unprovoked,"The Sydney Morning Herald, 11/30/2013"
+2013.12.11,Tiger Shark,lacerations to right hand and knee,N,Y,Male,29,Boogie Boarding,USA,Hawaii,2013,11-Dec-13,08h00,Unprovoked,"Big Island Now, 12/11/2013"
+2013.12.16,White Shark,injuries to left thigh,N,Y,Male,19,Surfing,South Africa,Western Cape Province,2013,16-Dec-13,08h45,Unprovoked,"Cape Argus, 12/16/2013"
+2013.12.25,Bull Shark,leg bitten,N,Y,Male,37,Snorkeling,New Caledonia,North Province,2013,25-Dec-13,11h00,Unprovoked,"Les Novelles Caledonie, 12/26/2014"
+2014.00.00,White Shark,"no injury to occupants, shark nudged and bit boat",N,Y,NA,NA,Filming A Documentary,New Zealand,Na,2014,2014,NA,Boat,Discovery Channel
+2014.02.20,Blacktip Shark,lacerations to lower leg,N,Y,Male,21,Kitesurfing,French Polynesia,Society Islands,2014,20-Feb-14,16h00,Unprovoked,"A. Brenneka, Shark Attack Survivors"
+2014.03.02,Blacktip Shark,lacerations to toes,N,Y,Male,21,Surfing,USA,Florida,2014,02-Mar-14,NA,Unprovoked,"L.Gordon, CBS 12, 3/3/2014"
+2014.04.03,White Shark,fatal,Y,Y,Female,63,Swimming,Australia,New South Wales,2014,03-Apr-14,08h20,Unprovoked,"B. Myatt, GSAF"
+2014.04.12,Raggedtooth Shark,lacerations to leg and hand by hooked shark provoked incident,N,N,Male,NA,Fishing,South Africa,Eastern Cape Province,2014,12-Apr-14,Morning,Provoked,"The Citizen, 4/12/2014"
+2014.04.12.R,White Shark,"no injury to occupants, shark bit pontoon",N,Y,NA,NA,Shark Watching,South Africa,Na,2014,Reported 12-Apr-2014,NA,Boat,"You Tube, posted 4/12/2014"
+2014.05.14,White Shark,"no injury, but surfboard severely damaged",N,Y,Male,35,Surfing,Australia,South Australia,2014,14-May-14,09h30,Unprovoked,"N. Davies, The Advertiser, 5/114/2014"
+2014.05.22,Nurse Shark,cut to tip of finger by a captive shark provoked incident,N,N,Male,10,Teasing A Shark,Australia,New South Wales,2014,22-May-14,NA,Provoked,"Newcastle Herald, 5/22/2014"
+2014.05.27.R,Bull Shark,lacerations to legs,N,Y,Female,29,Fell Into The Water,Australia,Queensland,2014,24-May-14,NA,Unprovoked,"Gold Coast Bulletin, 4/27/2014"
+2014.06.01.a,Blacktip Shark,laceration to left hand,N,Y,Female,37,Tagging Sharks,USA,Palmyra Atoll,2014,01-Jun-14,NA,Unprovoked,U.S. Coast Guard
+2014.06.01.c,Bull Shark,laceration to right lower leg,N,Y,Female,22,Swimming,USA,Florida,2014,01-Jun-14,13h30,Unprovoked,"Local10.com, 6/1/2014"
+2014.06.09.a,Bronze Whaler Shark,minor injury to torso,N,Y,Male,39,Body Boarding,Australia,South Australia,2014,09-Jun-14,09h45,Unprovoked,"The Australian, 6/9/2014"
+2014.06.17.R,Lemon Shark,lacerations to right hand by captive shark provoked incident,N,N,Male,NA,Petting A Shark,Australia,Western Australia,2014,Reported 17-Jun-2014,NA,Provoked,"Meribula News, 6/17/2014"
+2014.06.25,Caribbean Reef Shark,no injury but shark took his pole spear,N,Y,Male,42,Spearfishing,Bahamas,Abaco Islands,2014,25-Jun-14,13h00,Unprovoked,"A. Brenneka, Shark Attack Survivors, M. Adams"
+2014.06.27.R,White Shark,his boat was holed by a shark,N,Y,Male,48,Transatlantic Rowing,St. Martin,Na,2014,Reported 27-Jun-2014,NA,Boat,"Star Advertiser, 6/272014; Goree Challenge.com"
+2014.07.05.b,White Shark,provoked incident torso bitten by shark hooked by an angler,N,N,Male,NA,Swimming,USA,California,2014,05-Jul-14,09h30,Provoked,"R. Collier, GSAF /                   M Michaelson, SRI "
+2014.07.27,Tiger Shark,left foot bitten,N,Y,Male,NA,Swimming,USA,North Carolina,2014,27-Jul-14,NA,Unprovoked,"C. Creswell, GSAF"
+2014.08.01,White Shark,lower limbs and thigh bitten,N,Y,Male,20,Surfing,South Africa,Western Cape Province,2014,01-Aug-14,14h00,Unprovoked,"NSRI, 8/1/2014"
+2014.08.08,Bull Shark,minor lacerations to left heel and big toe,N,Y,Male,7,Swimming,USA,Louisiana,2014,08-Aug-14,Afternoon,Unprovoked,"The Times-Picayune, 8/9/2014"
+2014.08.09.R,Bull Shark,puncture wounds to right foot and ankle,N,Y,Male,NA,Spearfishing,Bahamas,Na,2014,09-Aug-14,NA,Unprovoked,A. Hindley / M. Michaelson
+2014.08.12,Bull Shark,puncture wounds and lacerations to left thigh and knee,N,Y,Male,NA,Standing,USA,Florida,2014,12-Aug-14,11h10,Unprovoked,"K. Hayes / Brewton Standard, 8/19/2014"
+2014.08.25,Bull Shark,lacerations to forearm from hooked shark provoked incident,N,N,Male,NA,Fishing For Sharks,USA,Florida,2014,Reported 25-Aug-2014,NA,Provoked,"Nooga.com, 8/25/2014"
+2014.08.29.b,Blacktip Shark,lacerations to shin,N,Y,Male,17,Surfing,USA,Florida,2014,29-Aug-14,NA,Unprovoked,"Click Orlando, 9/12/2014"
+2014.09.03,White Shark,"no injury, shark bit kayak",N,Y,Female,NA,Kayaking ,USA,Massachusetts,2014,03-Sep-14,18h00,Unprovoked,"Boston Globe, 9/4/2014"
+2014.09.06,Bull Shark,leg bitten,N,Y,Male,43,Fishing ,USA,Alabama,2014,06-Sep-14,13h00,Unprovoked,"Fox10TV.com, 9/7/2014"
+2014.09.13.R,Blacktip Shark,thumb and finger nipped,N,Y,Female,36,Feeding Fish,French Polynesia,Moorea,2014,Reported 12-Sep-2014,NA,Unprovoked,"LeDepeche, 9/12/2014"
+2014.10.02.a,White Shark,"left arm and right hand severed, lacerations to both legs",N,Y,Male,23,Surfing,Australia,Western Australia,2014,02-Oct-14,11h00,Unprovoked,"9News, 2/15/2015"
+2014.10.03.a,White Shark,"no injury to occupant, shark/s holded  kayak",N,Y,Male,NA,Kayaking ,USA,California,2014,03-Oct-14,11h30,Boat,"R. Collier, GSAF"
+2014.10.03.b,White Shark,"no injury to occupant, shark/s holded  kayak",N,Y,Male,NA,Kayaking,USA,California,2014,03-Oct-14,14h00,Boat,"R. Collier, GSAF"
+2014.10.05.a,Blacktip Shark,foot bitten,N,Y,Male,15,Surfing,USA,Florida,2014,05-Oct-14,11h00,Unprovoked,"WESH2, 10/6/2014"
+2014.10.05.b,Blacktip Shark,foot bitten,N,Y,Male,29,Surfing,USA,Florida,2014,05-Oct-14,11h30,Unprovoked,"WESH2, 10/6/2014"
+2014.10.14,Bull Shark,lacerations to left foot,N,Y,Female,7,Standing In Inner Tube,USA,South Carolina,2014,14-Oct-14,NA,Unprovoked,"TheIndyChannel, 10/16,2014"
+2014.10.22,Tiger Shark,"no injury, paddleboard bitten",N,Y,Female,NA,Stand-Up Paddleboarding,USA,Hawaii,2014,22-Oct-14,10h00,Unprovoked,"Hawaii News Now, 10/22/2014"
+2014.10.31,Tiger Shark,lacerations to fingers,N,Y,Female,34,Surfing,USA,Hawaii,2014,31-Oct-14,11h00,Unprovoked,"L. Kubota, Hawaii News Now, 10/31/2014"
+2014.11.17,White Shark,"shark bumped boat, no injury to occupants",N,Y,NA,NA,Na,USA,California,2014,Reported 17-Nov-2014,NA,Boat,"Inquisitr, 11/17/2014"
+2014.11.19,White Shark,"shark chasing fish bumped boat, no injury to occupants",N,Y,Male,NA,Fishing,Australia,Western Australia,2014,19-Nov-14,NA,Boat,"The West Australian, 11/20/2014"
+2014.12.28.b,White Shark,injury to hip/leg,N,Y,Male,50,Surfing,USA,California,2014,28-Dec-14,11h30,Unprovoked,"R. Collier, GSAF"
+2014.12.29.a,White Shark,fatal,Y,Y,Male,17,Spearfishing,Australia,Western Australia,2014,29-Dec-14,Morning,Unprovoked,"The West Australian, 12/29/2014"
+2015.01.03,Raggedtooth Shark,"lacerations to lower left leg, puncture wounds to sole of left foot",N,Y,Male,15,Surfing,South Africa,Eastern Cape Province,2015,03-Jan-15,08h00,Unprovoked,"Dispatch Online, 1/7/2015"
+2015.01.06,White Shark,severe bite to right flank,N,Y,Female,34,Snorkeling,Bahamas,Abaco Islands,2015,06-Jan-15,16h00,Unprovoked,"Britt Martin; Local10, 1/7/2015"
+2015.01.19.b,White Shark,no injury but shark bit trolling motor and rammed boat,N,Y,Male,NA,Fishing,USA,Florida,2015,19-Jan-15,NA,Boat,"The Panhandle, 1/20/2015"
+2015.01.30,Bull Shark,"no injury, shark's teeth scratched hull",N,Y,Male,57,Rowing,Australia,Queensland,2015,30-Jan-15,05h00,Boat,"Gold Coast Bulletin, 1/31/2015"
+2015.02.14,Tiger Shark,fatal,Y,Y,Female,22,Swimming,Reunion,DÉtang-Salé,2015,14-Feb-15,18h30,Unprovoked,"L'Yonne Républicaine, 2/14/2015"
+2015.02.15,White Shark,"no injury, shark bit rudder",N,Y,NA,NA,Transatlantic Rowing,Atlantic Ocean,Na,2015,15-Feb-15,NA,Boat,"Yorkshire Post, 3/16/2014"
+2015.03.07,Blacktip Shark,thigh bitten,N,Y,Male,NA,Sitting In The Water,French Polynesia,Central Tuamotu,2015,07-Mar-15,NA,Unprovoked,"Radio1, 3/9/2015"
+2015.03.16,Blacktip Shark,hand bitten,N,Y,Male,9,Hand Feeding Sharks,French Polynesia,Bora Bora,2015,16-Mar-15,10h00,Unprovoked,"Radio1, 3/16/2015"
+2015.03.18,Tiger Shark,lacerations to left forearm. lacerations to left hand and thigh,N,Y,Male,58,Standing / Snorkeling,USA,Hawaii,2015,18-Mar-15,11h45,Unprovoked,"KMBC, 3/19/2015"
+2015.03.26,White Shark,no injury but kayak bitten,N,Y,Male,36,Kayak Fishing,South Africa,Eastern Cape Province,2015,26-Mar-15,NA,Boat,"Times Live, 4/1/2015"
+2015.04.03,Bull Shark,injuries to head and torso,N,Y,Male,70,Spearfishing,USA,Florida,2015,03-Apr-15,Afternoon,Unprovoked,"ABC Action News, 4/6/2015"
+2015.04.12,Bull Shark,fatal,Y,Y,Male,13,Surfing,Reunion,Saint-Gilles-Les-Bains,2015,12-Apr-15,09h00,Unprovoked,"Le Huffington Post, 4/15/2015"
+2015.04.13,Blue Shark,lacerations to shoulder and left bicep,N,Y,Male,48,Photographing The Shark,USA,Florida,2015,13-Apr-15,NA,Unprovoked,"Miami Herald, 4/25/2015"
+2015.04.24.c,White Shark,"no injury, knocked off ski",N,Y,Male,71,Surf Skiing ,Australia,New South Wales,2015,24-Jun-15,11h00,Unprovoked,"Echo Daily, 6/25/2015"
+2015.04.25,White Shark,leg severed at mid-thigh,N,Y,Male,26,Surfing,Australia,South Australia,2015,25-Apr-15,09h45,Unprovoked,"The Advertiser, 4/25/2015"
+2015.05.02,White Shark,"injuries to leg, left arm and both hands",N,Y,Male,29,Diving,South Africa,Eastern Cape Province,2015,02-May-15,13h00,Unprovoked,"DispatchLive, 5/4/2015"
+2015.05.03,White Shark,injuries to left arm and right hand,N,Y,Male,NA,Surfing,Australia,New South Wales,2015,03-May-15,15h00,Unprovoked,"ABC, 5/3/2015"
+2015.05.09,Bull Shark,fatal,Y,Y,Male,50,Snorkeling,New Caledonia,Na,2015,09-May-15,NA,Unprovoked,Les Nouvelles Caledonnie
+2015.06.01,Bull Shark,left forearm bitten,N,Y,Male,47,Surfing,Reunion,Le Port,2015,01-Jun-15,15h00,Unprovoked,"Clincanoo, 6/1/2015"
+2015.06.05,Nurse Shark,puncture wound to finger,N,Y,Female,17,Attempting To Rescue A Shark,USA,Florida,2015,05-Jun-15,NA,Unprovoked,"7 News, 6/5/2015"
+2015.06.07,Bull Shark,lacerations to right calf,N,Y,Male,11,Playing,USA,Florida,2015,07-Jun-15,10h50,Unprovoked,"Florida Today, 6/7/2015"
+2015.06.14.a,Bull Shark,left arm amputated at elbow and severe injury to leg,N,Y,Female,12,Wading,USA,North Carolina,2015,14-Jun-15,16h12,Unprovoked,"C. Creswell, GSAF"
+2015.06.14.b,Bull Shark,arm amputated below shoulder,N,Y,Male,16,Wading,USA,North Carolina,2015,14-Jun-15,17h51,Unprovoked,"C. Creswell, GSAF"
+2015.06.24.b,Tiger Shark,minor injury to foot,N,Y,Male,6,Swimming,USA,North Carolina,2015,24-Jun-15,12h25,Unprovoked,"C. Creswell, GSAF"
+2015.06.26.b,White Shark,multiple lacerations to torso and leg,N,Y,Male,23,Surfing,South Africa,Western Cape Province,2015,26-Jun-15,16h00,Unprovoked,Zig Zag Surfing Magazine
+2015.06.27.a,White Shark,"right leg severed, multiple lacerations to left leg",N,Y,Male,19,Body Boarding,South Africa,Western Cape Province,2015,27-Jun-15,14h40,Unprovoked,"NSRI, 6/27/205"
+2015.06.27.b,Bull Shark,"injuries to right calf, buttock and both hands",N,Y,Male,18,Swimming,USA,North Carolina,2015,27-Jun-15,16h00,Unprovoked,"C. Creswell, WRAL, 6/27/2015"
+2015.07.02,White Shark,significant injuries to lower legs,N,Y,Male,32,Body Boarding ,Australia,New South Wales,2015,02-Jul-15,09h00,Unprovoked,"Northern Star, 7/2/2015"
+2015.07.03,White Shark,"no injury, shark bit surfboard",N,Y,Male,52,Surfing,Australia,New South Wales,2015,03-Jul-15,09h00,Unprovoked,"Northern Star, 7/3/2015"
+2015.07-10,White Shark,"no injury, shark bumped and damaged board",N,Y,Male,38,Surfing,USA,California,2015,10-Jul-15,08h45,Unprovoked,"KTLA, 7/10/2015"
+2015.07.19,White Shark,no injury,N,Y,Male,34,Surfing,South Africa,Eastern Cape Province,2015,19-Jul-15,NA,Unprovoked,"BBC, 7/20/2015"
+2015.07.22,Bull Shark,arm bitten,N,Y,Male,45,Surfing,Reunion,Na,2015,22-Jul-15,NA,Unprovoked,Zig Zag Surfing Magazine
+2015.07.23.a,Bronze Whaler Shark,left hand bitten,N,Y,Male,NA,Surfing,Australia,Victoria,2015,23-Jul-15,NA,Unprovoked,"ABC News, 7/27/2015"
+2015.07.25,White Shark,fatal,Y,Y,Male,46,Scallop Diving On Hookah,Australia,Tasmania,2015,25-Jul-15,10h00,Unprovoked,"C. Black, GSAF"
+2015.07.26.b,Blacktip Shark,minor injury to sole of foot,N,Y,Male,25,Surfing,USA,Florida,2015,26-Jul-15,19h00,Unprovoked,CBS 7/27/2015
+2015.07.31,White Shark,"lacerations and puncture wounds to hip, thigh, arm and hand",N,Y,Male,52,Surfing,Australia,New South Wales,2015,31-Jul-15,06h00,Unprovoked,"Daily Telegraph, 7/31/2015"
+2015.08.10,Hammerhead Shark,right hand bitten  provoked incident,N,N,Male,57,Spearfishing,USA,California,2015,10-Aug-15,08h00,Provoked,"NBC San Diego, 8/13/2015"
+2015.08.18.b,White Shark,"no injury, kayak bitten",N,Y,Male,22,Kayak Fishing,USA,California,2015,18-Aug-15,07h30,Unprovoked,"R. Collier, GSAF"
+2015.08.29.a,White Shark,"no injury, shark struk sufer's leg and his board",N,Y,Male,21,Surfing,USA,California,2015,29-Aug-15,10h00,Unprovoked,"R. Collier, GSAF"
+2015.08.29.b,White Shark,"no injury, surfboard bitten",N,Y,Female,54,Surfing,USA,California,2015,29-Aug-15,10h25,Unprovoked,"R. Collier, GSAF"
+2015.09.00,Tiger Shark,leg bitten,N,Y,Male,NA,Spearfishing,Fiji,Na,2015,Sep-15,NA,Unprovoked,"Fiji Times, 2/8/2016"
+2015.09.04,White Shark,inuries to lower left leg and ankle,N,Y,Male,62,Surf-Skiing,Australia,New South Wales,2015,04-Sep-15,11h30,Unprovoked,"The Sydney Morning Herald, 9/4/2015"
+2015.09.05,Hammerhead Shark,laceration to dorsum of foot by hooked shark  provoked incident,N,N,Male,29,Kayak Fishing,USA,California,2015,05-Sep-15,14h40,Provoked,"R. Collier, GSAF"
+2015.09.06,White Shark,"no injury, shark struck board, tossing her into the sea",N,Y,Female,50,Stand-Up Paddleboarding,USA,California,2015,06-Sep-15,17h30,Unprovoked,"R. Collier, GSAF"
+2015.09.20.c,Tiger Shark,severe laceration to left leg,N,Y,Male,27,Spearfishing,USA,Hawaii,2015,20-Sep-15,15h52,Unprovoked,"Big Island Video, 9/20/2015"
+2015.09.24,White Shark,"no injury, kayak damaged",N,Y,Male,NA,Kayak Fishing,USA,California,2015,24-Sep-15,10h45-11h15,Unprovoked,R. Collier
+2015.09.29,Blacktip Shark,"laceration to heel, puncture wounds to dorsum of foot",N,Y,Male,22,Surfing,USA,Florida,2015,29-Sep-15,16h20,Unprovoked,"First Coast News, 9/30/2015"
+2015.10.04,Blacktip Shark,severe lacerations to left hand,N,Y,Male,14,Surfing,USA,Florida,2015,04-Oct-15,08h30,Unprovoked,"CNN, 10/4/2015"
+2015.10.09.a,Tiger Shark,"left leg severed below the knee, defense injuries to left hand",N,Y,Male,25,Surfing,USA,Hawaii,2015,09-Oct-15,10h25,Unprovoked,"Hawaii News Now, 10/9/2015"
+2015.10.13,Hammerhead Shark,"no injury, shark rammed kayak repeatedly",N,Y,Male,NA,Kayak Fishing,USA,California,2015,13-Oct-15,11h00,Boat,"The Tribune, 10/28/2015"
+2015.10.17.a,Tiger Shark,injuries to lower legs,N,Y,Male,44,Swimming,USA,Hawaii,2015,17-Oct-15,11h30,Unprovoked,"KHON2, 10/17/2015"
+2015.10.25,White Shark,"lacerations to right calf, knee and hip",N,Y,Male,42,Surfing,South Africa,Western Cape Province,2015,25-Oct-15,15h00,Unprovoked,"News 24, 10/26/2015"
+2015.11.10,Bull Shark,injury to left thigh,N,Y,Male,20,Surfing,Australia,New South Wales,2015,10-Nov-15,18h15,Unprovoked,"The Sydney Morning Herald, 11/11/2015"
+2015.12.11,Bull Shark,"bitten on thigh, abdomen and hand",N,Y,Male,26,Lobster Fishing,Bahamas,Na,2015,11-Dec-15,NA,Unprovoked,"Nassau Guardian, 12/12/2015"
+2015.12.13,White Shark,"no injury, shark rammed boat and bit motor",N,Y,NA,NA,Fishing,Australia,New South Wales,2015,13-Dec-15,10h30,Boat,"Courier Mail, 12/15/2015"
+2015.12.21.a,Tiger Shark,right hand and part of forearm removed,N,Y,Male,32,Scuba Diving,Brazil,Pernambuco,2015,21-Dec-15,NA,Unprovoked,"Fox News, 12/22/2015"
+2015.12.21.b,Bronze Whaler Shark,"no injury, shark leapt on surfboard",N,Y,Male,43,Surfing,Australia,New South Wales,2015,21-Dec-15,07h00,Unprovoked,"The Telegraph, 12/22/;2015"
+2015.12.26,White Shark,"no injury, kayak damaged",N,Y,Male,NA,Kayak Fishing,South Africa,Kwazulu-Natal,2015,26-Dec-15,Morning,Boat,"Traveller24, 12/26/2015"
+2016.01.05,Blacktip Shark,laceration to right calf,N,Y,Male,11,Wading,Australia,Queensland,2016,05-Jan-16,Afternoon,Unprovoked,"Nine News, 1/5/2016"
+2016.01.23,Tiger Shark,no injury,N,Y,Male,48,Paddle Boarding,USA,Hawaii,2016,23-Jan-16,Morning,Unprovoked,"Grand Forks Herald, 1/27/2915"
+2016.01.24.b,Bull Shark,"bruised ribs and tail bone, speargun broken and wetsuit cut",N,Y,Male,NA,Spearfishing,USA,Texas,2016,24-Jan-16,09h30 / 10h00,Unprovoked,K. Love
+2016.03.02,Tiger Shark,minor injury to head,N,Y,Male,41,Swimming,Brazil,Santa Catarina State,2016,02-Mar-16,NA,Unprovoked,"Misones Online, 3/4/2016"
+2016.03.03.R,Bronze Whaler Shark,puncture wounds to right calf,N,Y,Male,NA,Fishing,Australia,South Australia,2016,Reported 03-Mar-2016,Midnight,Unprovoked,"9 News, 3/1/2016"
+2016.03.26,Nurse Shark,minor injury to chest provoked incident,N,N,Male,9,Na,Bahamas,Na,2016,26-Mar-16,NA,Provoked,"Wisconsin State Journal, 4/2/2016"
+2016.04.09,Tiger Shark,fatal,Y,Y,Female,69,Walking,New Caledonia,Grand Terre,2016,09-Apr-16,10h45,Unprovoked,Les Nouvelles Caledonnie. 4/11/2016
+2016.04.13,Bull Shark,multiple bites to right arm,N,Y,Male,26,Spearfishing,USA,Florida,2016,13-Apr-16,NA,Unprovoked,"Palm Beach Post, 4/13/2016"
+2016.04.18,Grey Shark,"severe lacerations to right forearm, hand and calf from speared shark provoked incident",N,N,Male,26,Spearfishing,French Polynesia,Tuamotos,2016,18-Apr-16,NA,Provoked,"Tahiti Infos, 4/19/2016"
+2016.04.22,White Shark,"no injury, surf-ski bitten",N,Y,Male,NA,Surf-Skiing,South Africa,Western Cape Province,2016,22-Apr-16,08h00,Unprovoked,"Knysna-Plett Herald, 4/22/2016"
+2016.04.25,Bull Shark,elbow bitten,N,Y,Male,24,Surfing,Indonesia,Bali,2016,25-Apr-16,07h00,Unprovoked,"News.com.au, 4/26/2016"
+2016.05.15,Nurse Shark,arm grabbed provoked incident,N,N,Female,23,Teasing A Shark,USA,Florida,2016,15-May-16,13h20,Provoked,"CBS News, 5/16/2016"
+2016.05.18,Blacktip Shark,ankle bitten,N,Y,Male,48,Swimming,USA,Florida,2016,18-May-16,Morning ,Unprovoked,"News4Jax, 5/19/2016"
+2016.05.21.b,Bull Shark,lacerations and puncture wounds to foot and ankle,N,Y,Female,22,Swimming,USA,Florida,2016,21-May-16,18h00,Unprovoked,"ABC Action News, 6/15/2016"
+2016.05.31,White Shark,fatal,Y,Y,Male,29,Surfing,Australia,Western Australia,2016,31-May-16,16h00,Unprovoked,"Perth Now, 5/31/2016"
+2016.06.02.b,Bronze Whaler Shark,"no injury, but sharks repeatedly hit their fins and guns",,Y,Male,NA,Spearfishing,Australia,New South Wales,2016,02-Jun-16,NA,Unprovoked,"Gold Coast Bulletin, 6/4/2016"
+2016.06.23,White Shark,injuries to left leg and right hand,N,Y,Male,43,Spearfishing,South Africa,Western Cape Province,2016,23-Jun-16,NA,Unprovoked,"News 24, 6/23/2016"
+2016.06.24,Caribbean Reef Shark,severe bite to right hand,N,Y,Male,59,Scuba Diving,Columbia,Isla Provedencia,2016,24-Jun-16,11h00,Unprovoked,Dr. A. Velez
+2016.07.04,Nurse Shark,right thigh injured by hooked pregnant female shark provoked incident,N,N,Male,34,Fishing,Australia,Queensland,2016,04-Jul-16,22h00,Provoked,"Cairns Post, 7/9/2016"
+2016.07.07.a,White Shark,"no injury. hull bitten, tooth fragment recovered",N,Y,Male,NA,Fishing For Sharks,USA,California,2016,07-Jul-16,NA,Boat,"R. Collier, GSAF"
+2016.07.08,White Shark,"no injury. hull bitten, tooth fragment recovered",N,Y,Male,NA,Fishing For Squid,USA,California,2016,08-Jul-16,NA,Boat,"R. Collier, GSAF"
+2016.07.14.4,Lemon Shark,face bruised when partly blind shark collided with him,N,Y,Male,NA,Scuba Diving,Bahamas,Na,2016,Reported  14-Jul-2016,NA,Unprovoked,"GrindTV, 7/14/2016"
+2016.07.17,Tiger Shark,"no injury, shark bit trolling motor",N,Y,NA,NA,Fishing In Alabama Deep Fishing Rodeo,USA,Alabama,2016,17-Jul-16,NA,Boat,"Al.com, 7/19/2016"
+2016.07.23.a,Bull Shark,lacerations to face and right leg,N,Y,Male,NA,Spearfishing,Bahamas,Abaco Islands,2016,23-Jul-16,NA,Unprovoked,"KWTX, 7/23/2016"
+2016.07.27,Nurse Shark,laceration to left forearm provoked incident,N,N,Male,43,Lobstering,USA,Florida,2016,27-Jul-16,NA,Provoked,"Tampa Bay Times, 7/27/2016"
+2016.07.28,White Shark,"no injury, shark nudged kayak repeatedly",N,Y,Male,NA,Kayaking,Australia,Western Australia,2016,28-Jul-16,NA,Boat,"ABC Australia, 7/28/2016"
+2016.07.29,Blue Shark,lacerations to right hand,N,Y,Male,40,Swimming,Spain,Alicante Province,2016,29-Jul-16,11h30,Unprovoked,"Informacion.es, 7/29/2016"
+2016.08.04,Blacktip Shark,big toe bitten,N,Y,Male,22,Surfing,USA,Florida,2016,04-Aug-16,NA,Unprovoked,"News 965, 8/5/2016"
+2016.08.06,Tiger Shark,"no inury, shark and board collided",N,Y,Male,21,Sup Foil Boarding,USA,Hawaii,2016,06-Aug-16,NA,Unprovoked,"SUP, 8/9/2015"
+2016.08.27,Bull Shark,"right arm severed, ankle severely bitten ",N,Y,Male,20,Surfing,Reunion,Na,2016,27-Aug-16,17h00,Unprovoked,"LaDepeche, 8/29/2016"
+2016.08.29.b,Bull Shark,lacerations to right foot,N,Y,Male,25,Surfing,USA,Florida,2016,29-Aug-16,15h00,Unprovoked,"News Channel 8, 8/30/16"
+2016.09.01,White Shark,two toes broken and lacerated,N,Y,Male,22,Spearfishing,USA,California,2016,01-Sep-16,NA,Unprovoked,"R. Collier, GSAF"
+2016.09.07,Tiger Shark,severe lacerations to shoulder and forearm,N,Y,Female,51,Swimming,USA,Hawaii,2016,07-Sep-16,14h30,Unprovoked,"Hawaii News Now, 9/7/2016"
